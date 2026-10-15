@@ -1,0 +1,1 @@
+import{h as e,t}from"./react-BmTetyfc.js";import{B as n,g as r}from"./app-Cwr6QyfK.js";var i=t(),a=({location:e})=>r(e.pathname,{title:`page.notFound.title`,description:`meta.notFound.description`},{noindex:!0}),o=e(function(){return(0,i.jsx)(n,{})});export{o as default,a as meta};

@@ -1,0 +1,4550 @@
+{
+  "version": 1,
+  "assets": {
+    "dom-na-krasnoy/01": {
+      "key": "08c679abc802dd515ffc1b6cb21a54e21fb25a8046567d28081a90e7d8238068",
+      "variants": [
+        {
+          "width": 480,
+          "height": 354,
+          "avif": "/img/dom-na-krasnoy/01-480.avif",
+          "jpg": "/img/dom-na-krasnoy/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 709,
+          "avif": "/img/dom-na-krasnoy/01-960.avif",
+          "jpg": "/img/dom-na-krasnoy/01-960.jpg"
+        },
+        {
+          "width": 1280,
+          "height": 945,
+          "avif": "/img/dom-na-krasnoy/01-1280.avif",
+          "jpg": "/img/dom-na-krasnoy/01-1280.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAAsBMJQBOjXAAVZVmSltaAAD+W7jZwkH6u39vguy45p6pUeHM/d/n43Hb9hU/1Nr11Zcbaj5ZeSVDuCFRCGJwx/pARpOdR3B1zGPNVK1NdAA=",
+      "dominant": "#78a8d8"
+    },
+    "dom-na-krasnoy/02": {
+      "key": "796b13e9377c6b836fe6328997fe720a0d9e8419f64f86cefe35bc7a315e6c9f",
+      "variants": [
+        {
+          "width": 480,
+          "height": 337,
+          "avif": "/img/dom-na-krasnoy/02-480.avif",
+          "jpg": "/img/dom-na-krasnoy/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 674,
+          "avif": "/img/dom-na-krasnoy/02-960.avif",
+          "jpg": "/img/dom-na-krasnoy/02-960.jpg"
+        },
+        {
+          "width": 1280,
+          "height": 899,
+          "avif": "/img/dom-na-krasnoy/02-1280.avif",
+          "jpg": "/img/dom-na-krasnoy/02-1280.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoQAAsAAsBMJYgCdAELjkyYhyT2AAD+shKsC8xMxXoc9jjrEVcL+IJboVO7uCCrAxoD+1HQPvwuhpe/UcsuGW9S1LcFedgA",
+      "dominant": "#78a8d8"
+    },
+    "dom-na-krasnoy/03": {
+      "key": "92b9f4fc8dfe4f01d4fe88c69bc5682008849030cb453d61e3e7e1cb1f8bd48f",
+      "variants": [
+        {
+          "width": 480,
+          "height": 344,
+          "avif": "/img/dom-na-krasnoy/03-480.avif",
+          "jpg": "/img/dom-na-krasnoy/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 688,
+          "avif": "/img/dom-na-krasnoy/03-960.avif",
+          "jpg": "/img/dom-na-krasnoy/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 861,
+          "avif": "/img/dom-na-krasnoy/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1033,
+          "avif": "/img/dom-na-krasnoy/03-1440.avif",
+          "jpg": "/img/dom-na-krasnoy/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1377,
+          "avif": "/img/dom-na-krasnoy/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1721,
+          "avif": "/img/dom-na-krasnoy/03-2400.avif",
+          "jpg": "/img/dom-na-krasnoy/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAAsAAsBMJYwCdAEPSmkX3xX/AAD+594+CbCUyRo9zKCPGb9ZCYq+m+e5QamY5qVWP8pot1rcppSF6bRKhbFvsLGM/kM7geeAAA==",
+      "dominant": "#e8d8d8"
+    },
+    "dom-na-krasnoy/04": {
+      "key": "1c98d41dbf19c6876b6c2cec0574c91caebda08e3fda3e048d6a1e2c08205f0a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 344,
+          "avif": "/img/dom-na-krasnoy/04-480.avif",
+          "jpg": "/img/dom-na-krasnoy/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 688,
+          "avif": "/img/dom-na-krasnoy/04-960.avif",
+          "jpg": "/img/dom-na-krasnoy/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 861,
+          "avif": "/img/dom-na-krasnoy/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1033,
+          "avif": "/img/dom-na-krasnoy/04-1440.avif",
+          "jpg": "/img/dom-na-krasnoy/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1377,
+          "avif": "/img/dom-na-krasnoy/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1721,
+          "avif": "/img/dom-na-krasnoy/04-2400.avif",
+          "jpg": "/img/dom-na-krasnoy/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAsAAsBMJQBOgCFlf4r6zU+AAOJjIVYJVo6lpZ2quFcGnT2QkMyW+z4oAC6Dpyyq7K15gGLm3k0MkTCK2nX3pUUYACe89ZBD8AAA",
+      "dominant": "#f8e8d8"
+    },
+    "dom-na-krasnoy/05": {
+      "key": "2500303df39ba722439f2e362ed420468b480ee9ac37da072b892592e21d5838",
+      "variants": [
+        {
+          "width": 480,
+          "height": 372,
+          "avif": "/img/dom-na-krasnoy/05-480.avif",
+          "jpg": "/img/dom-na-krasnoy/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 743,
+          "avif": "/img/dom-na-krasnoy/05-960.avif",
+          "jpg": "/img/dom-na-krasnoy/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 929,
+          "avif": "/img/dom-na-krasnoy/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1115,
+          "avif": "/img/dom-na-krasnoy/05-1440.avif",
+          "jpg": "/img/dom-na-krasnoy/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1486,
+          "avif": "/img/dom-na-krasnoy/05-1920.avif"
+        },
+        {
+          "width": 2356,
+          "height": 1824,
+          "avif": "/img/dom-na-krasnoy/05-2356.avif",
+          "jpg": "/img/dom-na-krasnoy/05-2356.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAwAAsBMJQBOgBwweOETvaegAM3GVfgQYaIuEGt/Q1AON54nDUk4YVdHdiDUWI/a5H6GlSYyS1zFuml5M0RDYcAAAA==",
+      "dominant": "#f8e8d8"
+    },
+    "skandinaviya/01": {
+      "key": "b96f9175cc1739754f13d48869952cdf6b150795967760178468275c8b641f32",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/skandinaviya/01-480.avif",
+          "jpg": "/img/skandinaviya/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 640,
+          "avif": "/img/skandinaviya/01-960.avif",
+          "jpg": "/img/skandinaviya/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "avif": "/img/skandinaviya/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 960,
+          "avif": "/img/skandinaviya/01-1440.avif",
+          "jpg": "/img/skandinaviya/01-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 1120,
+          "avif": "/img/skandinaviya/01-1680.avif",
+          "jpg": "/img/skandinaviya/01-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAAsAAsBMJagCdAYt9CuDQBwQAP5g644z1H95cWx8cvfgaP3Cl2kdb6DZFd+YpqTfgONM9X+1MaaixkuOlvr46ALWMyX8wDzp5lR2dAyujPfsdpEw56lMB8LpDtadjayTRAAA",
+      "dominant": "#4878b8"
+    },
+    "skandinaviya/02": {
+      "key": "5ef4f16da93b317f09946aabcfef26f3f93fac6ba1512f713afde74c87f039fb",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/skandinaviya/02-480.avif",
+          "jpg": "/img/skandinaviya/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 640,
+          "avif": "/img/skandinaviya/02-960.avif",
+          "jpg": "/img/skandinaviya/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "avif": "/img/skandinaviya/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 960,
+          "avif": "/img/skandinaviya/02-1440.avif",
+          "jpg": "/img/skandinaviya/02-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 1120,
+          "avif": "/img/skandinaviya/02-1680.avif",
+          "jpg": "/img/skandinaviya/02-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAsAAsBMJYgCdAEDEaxfi0AA/mxOFq30FhDNhrtgqfAU9Lj+3TqpT3wnNuoKJEH/GEWH18P76TjlK40Iosclxl+gqX/EtkzaY7v0iFIVfLgANJ8BGTw0KEwAAA==",
+      "dominant": "#68a8d8"
+    },
+    "skandinaviya/03": {
+      "key": "f6783264c006734c11e02e92bff20f268840b9e98e8e6151b7a8cb8ad11e13d2",
+      "variants": [
+        {
+          "width": 480,
+          "height": 720,
+          "avif": "/img/skandinaviya/03-480.avif",
+          "jpg": "/img/skandinaviya/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 1440,
+          "avif": "/img/skandinaviya/03-960.avif",
+          "jpg": "/img/skandinaviya/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 1800,
+          "avif": "/img/skandinaviya/03-1200.avif"
+        },
+        {
+          "width": 1600,
+          "height": 2400,
+          "avif": "/img/skandinaviya/03-1600.avif",
+          "jpg": "/img/skandinaviya/03-1600.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoLABAAAsBMJYgCsADdM7PAAP63+CyLAdltiVoTX0TQh94CKkBUqKaQ5Nu5zyNzz+Va1zAJSEpgbGhQp1Mq18+pTcAAAA==",
+      "dominant": "#383838"
+    },
+    "skandinaviya/04": {
+      "key": "83fce15bb7f7e58555e58b7dfaf50c9ce5c102dc302b4819c4f88bfcd4931669",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/skandinaviya/04-480.avif",
+          "jpg": "/img/skandinaviya/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 640,
+          "avif": "/img/skandinaviya/04-960.avif",
+          "jpg": "/img/skandinaviya/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "avif": "/img/skandinaviya/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 960,
+          "avif": "/img/skandinaviya/04-1440.avif",
+          "jpg": "/img/skandinaviya/04-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 1120,
+          "avif": "/img/skandinaviya/04-1680.avif",
+          "jpg": "/img/skandinaviya/04-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAsAAsBMJagCdACj7rScAADz9Q6HhM2/SGtHpI0SEdpzoxT6CdMdEl0+K18HqPLAd8TzIWp7T9JgxuLPd7Ht4NSsYVzcvIkplXoxOgwAAA==",
+      "dominant": "#c8b8a8"
+    },
+    "skandinaviya/05": {
+      "key": "2638e1395828c6c058433ac51a256f5a033360d6a8c603fb7f7beb5e2cf7a3d4",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/skandinaviya/05-480.avif",
+          "jpg": "/img/skandinaviya/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 640,
+          "avif": "/img/skandinaviya/05-960.avif",
+          "jpg": "/img/skandinaviya/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "avif": "/img/skandinaviya/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 960,
+          "avif": "/img/skandinaviya/05-1440.avif",
+          "jpg": "/img/skandinaviya/05-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 1120,
+          "avif": "/img/skandinaviya/05-1680.avif",
+          "jpg": "/img/skandinaviya/05-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAsAAsBMJYwCdAD0QUfPPyAA/obmj6Hvej7g5nuV+6KGLJCKkIZnE5f2XmbqR3+2u2B6AUbCorfLuLJ2qS6AXal8DnlskWQ35UO4d2MGK4AA",
+      "dominant": "#381808"
+    },
+    "loftkvartal/01": {
+      "key": "f26cc37e2e5448a942e0ea39224fd14e41561c10ad55438da535e8640ca3cb55",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/loftkvartal/01-480.avif",
+          "jpg": "/img/loftkvartal/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 640,
+          "avif": "/img/loftkvartal/01-960.avif",
+          "jpg": "/img/loftkvartal/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "avif": "/img/loftkvartal/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 960,
+          "avif": "/img/loftkvartal/01-1440.avif",
+          "jpg": "/img/loftkvartal/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1280,
+          "avif": "/img/loftkvartal/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1600,
+          "avif": "/img/loftkvartal/01-2400.avif",
+          "jpg": "/img/loftkvartal/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAsAAsBMJaQAAuqeUn3c3zAA/uGr3McHkS/0AJBl4LDtvTZ2yr6ITXzxcjghx6W3GLh21XOiaqt7QHZZ2mPKcXdgMX8AAAA=",
+      "dominant": "#e8e8e8"
+    },
+    "loftkvartal/02": {
+      "key": "a094a7062b100ea4d56340ffc5386bc61fd9202618e6b0a32dc32fab7fd206a9",
+      "variants": [
+        {
+          "width": 480,
+          "height": 326,
+          "avif": "/img/loftkvartal/02-480.avif",
+          "jpg": "/img/loftkvartal/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 652,
+          "avif": "/img/loftkvartal/02-960.avif",
+          "jpg": "/img/loftkvartal/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 816,
+          "avif": "/img/loftkvartal/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 979,
+          "avif": "/img/loftkvartal/02-1440.avif",
+          "jpg": "/img/loftkvartal/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1305,
+          "avif": "/img/loftkvartal/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1631,
+          "avif": "/img/loftkvartal/02-2400.avif",
+          "jpg": "/img/loftkvartal/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsAAsBMJZQCdAEUWfChN1awAP7tbAFtRfQnFnt/x157E7D9dt2sdeZDd309Ie51RcXICYSf/c/lRVe3PeTqI/ljyccOjgAAAA==",
+      "dominant": "#b8c8d8"
+    },
+    "loftkvartal/03": {
+      "key": "e6e542e6cd4dda535bac876731165d3586fad07f3da317546a466bb7702df063",
+      "variants": [
+        {
+          "width": 480,
+          "height": 326,
+          "avif": "/img/loftkvartal/03-480.avif",
+          "jpg": "/img/loftkvartal/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 652,
+          "avif": "/img/loftkvartal/03-960.avif",
+          "jpg": "/img/loftkvartal/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 816,
+          "avif": "/img/loftkvartal/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 979,
+          "avif": "/img/loftkvartal/03-1440.avif",
+          "jpg": "/img/loftkvartal/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1305,
+          "avif": "/img/loftkvartal/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1631,
+          "avif": "/img/loftkvartal/03-2400.avif",
+          "jpg": "/img/loftkvartal/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAsAAsBMJYwCdAEKmfBP7MMAAP7n7iMF+b05Mia+Z+iIQxWZouRZAaHtr75PnvKU48Ud5m+36CPjJ+wLT7SmD+vqBC5oni/cBb97NAiKirdc8ztxoAAA",
+      "dominant": "#d8d8d8"
+    },
+    "loftkvartal/04": {
+      "key": "c8af2b538148c9d37667191dc509f9d22c4ff3d9c9508b62b1e2335712dc7376",
+      "variants": [
+        {
+          "width": 480,
+          "height": 326,
+          "avif": "/img/loftkvartal/04-480.avif",
+          "jpg": "/img/loftkvartal/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 652,
+          "avif": "/img/loftkvartal/04-960.avif",
+          "jpg": "/img/loftkvartal/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 816,
+          "avif": "/img/loftkvartal/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 979,
+          "avif": "/img/loftkvartal/04-1440.avif",
+          "jpg": "/img/loftkvartal/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1305,
+          "avif": "/img/loftkvartal/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1631,
+          "avif": "/img/loftkvartal/04-2400.avif",
+          "jpg": "/img/loftkvartal/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAsAAsBMJYgCdAEQEtbyFwAA/ZyhaITAOQ0poqE4XQ2hTlOZk4CnXlPlpffXubVY9HTrp19I/Bcz3lvKXD+fR1mSTRMgGr2nuPkAAAA=",
+      "dominant": "#d8d8d8"
+    },
+    "loftkvartal/05": {
+      "key": "b9260d0bd688b459f589bdd8f13a9b9fc3a2752243ef9872faea7ebdedadcdc0",
+      "variants": [
+        {
+          "width": 480,
+          "height": 345,
+          "avif": "/img/loftkvartal/05-480.avif",
+          "jpg": "/img/loftkvartal/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 690,
+          "avif": "/img/loftkvartal/05-960.avif",
+          "jpg": "/img/loftkvartal/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 863,
+          "avif": "/img/loftkvartal/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1035,
+          "avif": "/img/loftkvartal/05-1440.avif",
+          "jpg": "/img/loftkvartal/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1380,
+          "avif": "/img/loftkvartal/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1725,
+          "avif": "/img/loftkvartal/05-2400.avif",
+          "jpg": "/img/loftkvartal/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAsAAsBMJQBdgCHeNCuGqIAA/vfvMioZ5rlPKVGUMgBNDUHHyOtVKITzf3fJ4xGk3O6GROqHVy1bDZ5HV5YPjpbA2+sAZUAAAA==",
+      "dominant": "#e8e8e8"
+    },
+    "loftkvartal/06": {
+      "key": "595dcc11adda5cfc039d074843c36def1abc8c836286b05e0abc000a67ab4033",
+      "variants": [
+        {
+          "width": 480,
+          "height": 355,
+          "avif": "/img/loftkvartal/06-480.avif",
+          "jpg": "/img/loftkvartal/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 710,
+          "avif": "/img/loftkvartal/06-960.avif",
+          "jpg": "/img/loftkvartal/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 887,
+          "avif": "/img/loftkvartal/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1065,
+          "avif": "/img/loftkvartal/06-1440.avif",
+          "jpg": "/img/loftkvartal/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1420,
+          "avif": "/img/loftkvartal/06-1920.avif"
+        },
+        {
+          "width": 2380,
+          "height": 1760,
+          "avif": "/img/loftkvartal/06-2380.avif",
+          "jpg": "/img/loftkvartal/06-2380.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAwAAsBMJQBOgCDcZGRsaGgAAP7zel1i2FferLethIZzsZbnrSwrSOXe2pluVToHUWLwYQPe1ZqDFfUSs10IYNQNxBeiEJjDWA7DoGx5ggsi4AA=",
+      "dominant": "#d8d8d8"
+    },
+    "loftkvartal/07": {
+      "key": "21aa02526c7012fdac7b3e272b2624b3ee71706c6339259cad63a7626d1f60df",
+      "variants": [
+        {
+          "width": 480,
+          "height": 357,
+          "avif": "/img/loftkvartal/07-480.avif",
+          "jpg": "/img/loftkvartal/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 715,
+          "avif": "/img/loftkvartal/07-960.avif",
+          "jpg": "/img/loftkvartal/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 894,
+          "avif": "/img/loftkvartal/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1072,
+          "avif": "/img/loftkvartal/07-1440.avif",
+          "jpg": "/img/loftkvartal/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1430,
+          "avif": "/img/loftkvartal/07-1920.avif"
+        },
+        {
+          "width": 2350,
+          "height": 1750,
+          "avif": "/img/loftkvartal/07-2350.avif",
+          "jpg": "/img/loftkvartal/07-2350.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQAAwAAsBMJYwCdAYu5vDsRdT28sAA/uKWsHna3YUfk40ur9R4A16AVj6P9IHP9F0Zfl4os9rPGBXiY7wlpNsSpRSMokOmGDm5C7Vkp+pq/FdoW897GAAA",
+      "dominant": "#b8d8f8"
+    },
+    "loftkvartal/08": {
+      "key": "deb931d97ec886ab7a397c9fc184481d98d184e1b0736e8c81c609a5486bc4ca",
+      "variants": [
+        {
+          "width": 480,
+          "height": 326,
+          "avif": "/img/loftkvartal/08-480.avif",
+          "jpg": "/img/loftkvartal/08-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 653,
+          "avif": "/img/loftkvartal/08-960.avif",
+          "jpg": "/img/loftkvartal/08-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 816,
+          "avif": "/img/loftkvartal/08-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 979,
+          "avif": "/img/loftkvartal/08-1440.avif",
+          "jpg": "/img/loftkvartal/08-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1306,
+          "avif": "/img/loftkvartal/08-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1632,
+          "avif": "/img/loftkvartal/08-2400.avif",
+          "jpg": "/img/loftkvartal/08-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQAAsAAsBMJZQC7AYtfUaRPiJUAAD+Cdy9TGg/cYjTmfRLTjFJJxfhS1E0U3boBeXd8dwaayO0HlaiZSjzx0R3XRGcUXeqzWGMpUqX+DGvdKp0LO7BI7XkA3hqjTdmfksVSf0/0GbgAA==",
+      "dominant": "#e8e8e8"
+    },
+    "nevskiy/01": {
+      "key": "971b7d04363c3e1dcaf9dab5a5aec38ad1ea0fac148559e6d26c5f4f664ec869",
+      "variants": [
+        {
+          "width": 480,
+          "height": 300,
+          "avif": "/img/nevskiy/01-480.avif",
+          "jpg": "/img/nevskiy/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 600,
+          "avif": "/img/nevskiy/01-960.avif",
+          "jpg": "/img/nevskiy/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 750,
+          "avif": "/img/nevskiy/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 900,
+          "avif": "/img/nevskiy/01-1440.avif",
+          "jpg": "/img/nevskiy/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1200,
+          "avif": "/img/nevskiy/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1500,
+          "avif": "/img/nevskiy/01-2400.avif",
+          "jpg": "/img/nevskiy/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAoAAsBMJYwC7AEVLLSfCgAA/uf6oCIG1Pp9ePhV0xkJDgDp7b0FRGiuMlPqwNJagsXfvwyvE2bBmmf21lLf3NQSk4ADxNvZnOVAAAA=",
+      "dominant": "#d8d8d8"
+    },
+    "nevskiy/02": {
+      "key": "46d7471ea818fa80abf331ebe8835c33d7adadec60e98b9e943527afd0d5781a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 300,
+          "avif": "/img/nevskiy/02-480.avif",
+          "jpg": "/img/nevskiy/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 600,
+          "avif": "/img/nevskiy/02-960.avif",
+          "jpg": "/img/nevskiy/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 750,
+          "avif": "/img/nevskiy/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 900,
+          "avif": "/img/nevskiy/02-1440.avif",
+          "jpg": "/img/nevskiy/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1200,
+          "avif": "/img/nevskiy/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1500,
+          "avif": "/img/nevskiy/02-2400.avif",
+          "jpg": "/img/nevskiy/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoQAAoAAsBMJZQBTAFvw7fRfYYXyEoAAP0DzfrMipxpPLNoqFnGDI6UQi0tr8T8W30oGBuBmRuxRwCxfjWg7FLNkL+kRQYViKL1kj7d8RqX32JZsNTHWswZoER8rC9GAAA=",
+      "dominant": "#d8d8e8"
+    },
+    "nevskiy/03": {
+      "key": "34e48fedde4ae407ab25db021fce7687c2a41178575805932a5fe6dd50a69d4d",
+      "variants": [
+        {
+          "width": 480,
+          "height": 300,
+          "avif": "/img/nevskiy/03-480.avif",
+          "jpg": "/img/nevskiy/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 600,
+          "avif": "/img/nevskiy/03-960.avif",
+          "jpg": "/img/nevskiy/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 750,
+          "avif": "/img/nevskiy/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 900,
+          "avif": "/img/nevskiy/03-1440.avif",
+          "jpg": "/img/nevskiy/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1200,
+          "avif": "/img/nevskiy/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1500,
+          "avif": "/img/nevskiy/03-2400.avif",
+          "jpg": "/img/nevskiy/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAoAAsBMJZQCdAEfVv2RurLAAP7wacwXmcB5Fl0Hgs43TLfnIr/iqyxLQcQTkaYoboKzKPMn89KNweMDM574xxaHwO51l4AAAA==",
+      "dominant": "#d8d8e8"
+    },
+    "nevskiy/04": {
+      "key": "0aafe580675de1fd431051fcbbecf62ad9ddad958b19040173093dff33de436c",
+      "variants": [
+        {
+          "width": 480,
+          "height": 328,
+          "avif": "/img/nevskiy/04-480.avif",
+          "jpg": "/img/nevskiy/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 657,
+          "avif": "/img/nevskiy/04-960.avif",
+          "jpg": "/img/nevskiy/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 821,
+          "avif": "/img/nevskiy/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 985,
+          "avif": "/img/nevskiy/04-1440.avif",
+          "jpg": "/img/nevskiy/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1314,
+          "avif": "/img/nevskiy/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1642,
+          "avif": "/img/nevskiy/04-2400.avif",
+          "jpg": "/img/nevskiy/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAsAAsBMJZwAD40vSo6xeEAAzi5pt0EOqGv+Jpe1KEgiqBifS7QVbj+/pWR0Ek2Bf4zMPy9FispmXWNdM084jXAUcc2Tl4fOKC4oUtPllzVcBsPIAA==",
+      "dominant": "#d8c8c8"
+    },
+    "nevskiy/05": {
+      "key": "f52be2b5577273b1264c9ef0675ed06322ec5fa60b65cf76f2d9a034b57c19a8",
+      "variants": [
+        {
+          "width": 480,
+          "height": 328,
+          "avif": "/img/nevskiy/05-480.avif",
+          "jpg": "/img/nevskiy/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 657,
+          "avif": "/img/nevskiy/05-960.avif",
+          "jpg": "/img/nevskiy/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 821,
+          "avif": "/img/nevskiy/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 985,
+          "avif": "/img/nevskiy/05-1440.avif",
+          "jpg": "/img/nevskiy/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1314,
+          "avif": "/img/nevskiy/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1642,
+          "avif": "/img/nevskiy/05-2400.avif",
+          "jpg": "/img/nevskiy/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoQAAsAAsBMJQBOgUwCelLy0NvMwuQA9q6S9Ww5zfzTGYde3Q2tv3/XDOW+IhAqdejgSHARr8c0o8D21h6nlq7L9SeX/qMUExpxdrIdadACtT3sQD++cwjETcAwAA==",
+      "dominant": "#e8d8d8"
+    },
+    "nevskiy/06": {
+      "key": "960b90b5b599a97b5ee352e307d29e0c02fed37167a42012a6d13a6aafc1dd67",
+      "variants": [
+        {
+          "width": 480,
+          "height": 328,
+          "avif": "/img/nevskiy/06-480.avif",
+          "jpg": "/img/nevskiy/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 657,
+          "avif": "/img/nevskiy/06-960.avif",
+          "jpg": "/img/nevskiy/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 821,
+          "avif": "/img/nevskiy/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 985,
+          "avif": "/img/nevskiy/06-1440.avif",
+          "jpg": "/img/nevskiy/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1314,
+          "avif": "/img/nevskiy/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1642,
+          "avif": "/img/nevskiy/06-2400.avif",
+          "jpg": "/img/nevskiy/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAsAAsBMJaACdAYtzwfVxJZ1gAD+z4PE0vu4YuVv9VeWG0/Jf/KzYIogkigqsOXj+IEx9A3M3lL+mAiH8jK1/hvkIGYUUgT/FwRzpOKM8QuIDS5jQttE5gBNQR4DZR7NVGoAAAA=",
+      "dominant": "#282828"
+    },
+    "nevskiy/07": {
+      "key": "6248b854614ebf298b2f992d63fa17b829c8045fb9663d80a2d4ae2da09a7c2a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/nevskiy/07-480.avif",
+          "jpg": "/img/nevskiy/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/nevskiy/07-960.avif",
+          "jpg": "/img/nevskiy/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/nevskiy/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/nevskiy/07-1440.avif",
+          "jpg": "/img/nevskiy/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/nevskiy/07-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/nevskiy/07-2400.avif",
+          "jpg": "/img/nevskiy/07-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAAsBMJQBOgBmgQukHdAD+pgt56iTvvEZ+PzIgDnUdWd0tCub36JtJBr5CzuTta1OwpRHZwhxaS4oPyaaamNagHnsbwPA3DKIGDfRZOSkAAAA=",
+      "dominant": "#282828"
+    },
+    "nevskiy/08": {
+      "key": "9555ba8f03ba8930822c7a4c1acb6fcb57dbd0decff3c0c8180508cea9d362c9",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/nevskiy/08-480.avif",
+          "jpg": "/img/nevskiy/08-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/nevskiy/08-960.avif",
+          "jpg": "/img/nevskiy/08-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/nevskiy/08-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/nevskiy/08-1440.avif",
+          "jpg": "/img/nevskiy/08-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/nevskiy/08-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/nevskiy/08-2400.avif",
+          "jpg": "/img/nevskiy/08-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAkAAsBMJZQCdIDZgqh0dzMOoAD9w/Pyy41g+Wl03+XgYuYHdP9htyNeZidLMIJaKCmGsGdrntZz42xZqTVxY36c87kBI4d+KAODlAAAAA==",
+      "dominant": "#282828"
+    },
+    "nevskiy/09": {
+      "key": "7d46b355d49d7e2955e1dbc0719a4cb83d54d4080739cbefbe7ef03ca7163835",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/nevskiy/09-480.avif",
+          "jpg": "/img/nevskiy/09-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/nevskiy/09-960.avif",
+          "jpg": "/img/nevskiy/09-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/nevskiy/09-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/nevskiy/09-1440.avif",
+          "jpg": "/img/nevskiy/09-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/nevskiy/09-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/nevskiy/09-2400.avif",
+          "jpg": "/img/nevskiy/09-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoQAAkAAsBMJQBOgMW+aRLAAP7eKw9xLhpFvWNecRCxt8ppnNShb7/11+jFYQt0LnYYgUxejGt4AQl6j3BGVwsZp+Uugg+jNcyGofCIAAA=",
+      "dominant": "#181808"
+    },
+    "pod-solncem/01": {
+      "key": "120be8fbb1967254566c775d25035fc26274e4cd22f0bd00d4e0bc74a297bdab",
+      "variants": [
+        {
+          "width": 480,
+          "height": 318,
+          "avif": "/img/pod-solncem/01-480.avif",
+          "jpg": "/img/pod-solncem/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 636,
+          "avif": "/img/pod-solncem/01-960.avif",
+          "jpg": "/img/pod-solncem/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 795,
+          "avif": "/img/pod-solncem/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 954,
+          "avif": "/img/pod-solncem/01-1440.avif",
+          "jpg": "/img/pod-solncem/01-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 1113,
+          "avif": "/img/pod-solncem/01-1680.avif",
+          "jpg": "/img/pod-solncem/01-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAsAAsBMJbACdAEPS+ZN5WMkAAD+tB0u/ivbopKLQXPNCTFGNCx3OmjJsh3EckjhcoiixXM0VP3qgP3rW3v4OvRYICTvZZf8PV2KmAA=",
+      "dominant": "#88c8f8"
+    },
+    "pod-solncem/02": {
+      "key": "0551c02263268d24531d49ac25fca16792952e2f5d319fb1c6aa8303a70d2b1f",
+      "variants": [
+        {
+          "width": 480,
+          "height": 316,
+          "avif": "/img/pod-solncem/02-480.avif",
+          "jpg": "/img/pod-solncem/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 633,
+          "avif": "/img/pod-solncem/02-960.avif",
+          "jpg": "/img/pod-solncem/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 791,
+          "avif": "/img/pod-solncem/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 949,
+          "avif": "/img/pod-solncem/02-1440.avif",
+          "jpg": "/img/pod-solncem/02-1440.jpg"
+        },
+        {
+          "width": 1671,
+          "height": 1101,
+          "avif": "/img/pod-solncem/02-1671.avif",
+          "jpg": "/img/pod-solncem/02-1671.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAAsBMJbACdADhk1eCXHXSAAD+sjyGJ7HFED4dyFAuIjgByfbEyqubAwYROUmeHqnMwWi9gaG5D2LWwxmUunx+/s8t19Kweve0hbzE+hgHoElevmaXkAA=",
+      "dominant": "#78b8f8"
+    },
+    "pod-solncem/03": {
+      "key": "c2e8bfa79197032f8571a99bcc0625c2e6c679f34e5ed9297dda2c44b0d021c0",
+      "variants": [
+        {
+          "width": 480,
+          "height": 288,
+          "avif": "/img/pod-solncem/03-480.avif",
+          "jpg": "/img/pod-solncem/03-480.jpg"
+        },
+        {
+          "width": 884,
+          "height": 530,
+          "avif": "/img/pod-solncem/03-884.avif",
+          "jpg": "/img/pod-solncem/03-884.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAoAAsBMJYgCdIExD+wR95keAAD2XnevyacEoy32ththn9HOU3qVhKZA+IN3j/jSqRZ2gx3CZ0zxU8E59vPc1aqencnVqugGJQUSfCvihXdU1zNOahQA",
+      "dominant": "#7898c8"
+    },
+    "pod-solncem/04": {
+      "key": "6a4734be9f1ed854980d350fbda0e4f14108708f26b02e6c6d1c9c023dc09258",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/pod-solncem/04-480.avif",
+          "jpg": "/img/pod-solncem/04-480.jpg"
+        },
+        {
+          "width": 803,
+          "height": 536,
+          "avif": "/img/pod-solncem/04-803.avif",
+          "jpg": "/img/pod-solncem/04-803.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAAsBMJZQCdAEe1L4dVB8AAP6wJIx/xou2BfAziJBY/+vfaZnB1BJbhQ4djSrHiJA+pTaAMwDE/DSaQ5TORs68r5QkH/gkrS41k7u5RtywOwFU1wBNMX/8AAAA",
+      "dominant": "#f8f8f8"
+    },
+    "sunvill/01": {
+      "key": "160a092fcd990a92a17896255c21817efbbb986eca216e3248c47583ec6a59f1",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/sunvill/01-480.avif",
+          "jpg": "/img/sunvill/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/sunvill/01-960.avif",
+          "jpg": "/img/sunvill/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/sunvill/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/sunvill/01-1440.avif",
+          "jpg": "/img/sunvill/01-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 945,
+          "avif": "/img/sunvill/01-1680.avif",
+          "jpg": "/img/sunvill/01-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQAAkAAsBMJYgCdAYrnwLPwh+LQAD+8BQKD4WB3O7mkiMNtRDZXiGKdt7E5gzMKxHIK3no6Bq3k9gXCobAGZ9zYqUEeJx9ha54AAAA",
+      "dominant": "#88b8e8"
+    },
+    "sunvill/02": {
+      "key": "0607d90cef6fbb611a0edf075045811cf69c3b82983d07f0aaee21a8398908cd",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/sunvill/02-480.avif",
+          "jpg": "/img/sunvill/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/sunvill/02-960.avif",
+          "jpg": "/img/sunvill/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/sunvill/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/sunvill/02-1440.avif",
+          "jpg": "/img/sunvill/02-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 945,
+          "avif": "/img/sunvill/02-1680.avif",
+          "jpg": "/img/sunvill/02-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAkAAsBMJQBOgCHgM6t/jowA/vCPDrK9zty0huvWxhnw/L7MmpSFJalrTDQeN9dOufRpduqyQIpGE8Pasn4KeQAAAA==",
+      "dominant": "#f8f8f8"
+    },
+    "sunvill/03": {
+      "key": "fe9ca8d90c8305b1a77e6a30ae0ec783cb372fc8c8fdc4c84f7267a5d1f3e1e2",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/sunvill/03-480.avif",
+          "jpg": "/img/sunvill/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/sunvill/03-960.avif",
+          "jpg": "/img/sunvill/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/sunvill/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/sunvill/03-1440.avif",
+          "jpg": "/img/sunvill/03-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 945,
+          "avif": "/img/sunvill/03-1680.avif",
+          "jpg": "/img/sunvill/03-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAkAAsBMJQBOgCHvXIR81wAA/ofxIXyiwMO8Q3S7PiBe7o3xmmF2sjVen8vIILvEcqbRScHbZP9+gxm3PRI6r+Wfq4SwAAA=",
+      "dominant": "#98b8d8"
+    },
+    "sunvill/04": {
+      "key": "36afbbe4b5b5029437a8a845915f141d431ed71f70a98ca2719508a4bf87b62b",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/sunvill/04-480.avif",
+          "jpg": "/img/sunvill/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/sunvill/04-960.avif",
+          "jpg": "/img/sunvill/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/sunvill/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/sunvill/04-1440.avif",
+          "jpg": "/img/sunvill/04-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 945,
+          "avif": "/img/sunvill/04-1680.avif",
+          "jpg": "/img/sunvill/04-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAAsBMJQBOgCB/Qi8BzTAA4n3vmeIJ98EgIvDiC/AD/9+IfAbdeEfQ6SNvKibJHuy3eA6L4dCGcaJ5Ijf5bsJwxTautTtk7rzbooAAAA==",
+      "dominant": "#282818"
+    },
+    "sunvill/05": {
+      "key": "4426fdc17d7f5cb1614c8f173dfe8eabd6e6bf533867e0011ce6f30a4a159126",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/sunvill/05-480.avif",
+          "jpg": "/img/sunvill/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/sunvill/05-960.avif",
+          "jpg": "/img/sunvill/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/sunvill/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/sunvill/05-1440.avif",
+          "jpg": "/img/sunvill/05-1440.jpg"
+        },
+        {
+          "width": 1680,
+          "height": 945,
+          "avif": "/img/sunvill/05-1680.avif",
+          "jpg": "/img/sunvill/05-1680.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAkAAsBMJQBOgB09Fr1bkcAA/oWTSHpemLRowQqtrzdmfgpZUkoxhy8hpdqPjD4Ea+zb/k2gm05Hlw0XUOm4QAzaIMZH0AA=",
+      "dominant": "#181808"
+    },
+    "adelya-kutuya/01": {
+      "key": "caf4472303fffd582d4e1b96245750046d0928d64bda588cd8d7d2351225391b",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/01-480.avif",
+          "jpg": "/img/adelya-kutuya/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/01-960.avif",
+          "jpg": "/img/adelya-kutuya/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/01-1440.avif",
+          "jpg": "/img/adelya-kutuya/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/01-2400.avif",
+          "jpg": "/img/adelya-kutuya/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAkAAsBMJQBOgCKJhWXrYEQAAP70/ZVQZlXcmy8d3Xo6nUIA/U3FZ8MoGYqzVWGVoM1Aihf1j1d5540UCwG+AI7HgWg/peDoBBBoAAA=",
+      "dominant": "#e8d8b8"
+    },
+    "adelya-kutuya/02": {
+      "key": "abbe18ed2d633c20335d86b6b889ad7932b1f627ce29e33dd7dade0b90a7bf9d",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/02-480.avif",
+          "jpg": "/img/adelya-kutuya/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/02-960.avif",
+          "jpg": "/img/adelya-kutuya/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/02-1440.avif",
+          "jpg": "/img/adelya-kutuya/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/02-2400.avif",
+          "jpg": "/img/adelya-kutuya/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAkAAsBMJYgCdAD0oYFeVtMgAP7wZJg6jLRQj9C2lfDxUCuAnTAsLd0BrvBJY3l7PgVDUyuJEQtdWiQUd+2GydEyNoAA",
+      "dominant": "#d8d8d8"
+    },
+    "adelya-kutuya/03": {
+      "key": "f54c2cbb86cd3eadcfea1b433420ca8ee7751721cebc5a9346602c294ed69294",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/03-480.avif",
+          "jpg": "/img/adelya-kutuya/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/03-960.avif",
+          "jpg": "/img/adelya-kutuya/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/03-1440.avif",
+          "jpg": "/img/adelya-kutuya/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/03-2400.avif",
+          "jpg": "/img/adelya-kutuya/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAkAAsBMJZQCdAEOy9NywAD+7etseoVLxdyLJTrvbhRuFVs3tXPtkzcuY51zqRWAyHjq9xNzy/Z7AhlWRL1Su0lNaujQAAA=",
+      "dominant": "#e8d8d8"
+    },
+    "adelya-kutuya/04": {
+      "key": "6b2e1adcfbf3bee8b8412df4f6f28f38d57ba4d5772841f05ba74750bf69dea1",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/04-480.avif",
+          "jpg": "/img/adelya-kutuya/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/04-960.avif",
+          "jpg": "/img/adelya-kutuya/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/04-1440.avif",
+          "jpg": "/img/adelya-kutuya/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/04-2400.avif",
+          "jpg": "/img/adelya-kutuya/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAkAAsBMJQBOgCPo6uL/gAD+8KavVzQ+ik1X/+SP31DSsIvz9v7nkdIz8+7JpRBE3UIoY/six/0IoOHPwmYQbAAAAA==",
+      "dominant": "#e8d8b8"
+    },
+    "adelya-kutuya/05": {
+      "key": "6740e9152304f04d7db4cc1087b4e61e00a45b738d177761696aca1d46f0ca77",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/05-480.avif",
+          "jpg": "/img/adelya-kutuya/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/05-960.avif",
+          "jpg": "/img/adelya-kutuya/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/05-1440.avif",
+          "jpg": "/img/adelya-kutuya/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/05-2400.avif",
+          "jpg": "/img/adelya-kutuya/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQAAkAAsBMJQBYdhl5CEItYAD+8EokJeUQMEpQKc9U6YSnzD9jQArHz6iSKMo2+e1hGBr0Y/8AVB2xgnJVRGgAAAA=",
+      "dominant": "#c8b8b8"
+    },
+    "adelya-kutuya/06": {
+      "key": "f0583aeb68f81d5ea039785dad95b9ed2f1fda5e5286652f12c7ab7bf9325307",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/06-480.avif",
+          "jpg": "/img/adelya-kutuya/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/06-960.avif",
+          "jpg": "/img/adelya-kutuya/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/06-1440.avif",
+          "jpg": "/img/adelya-kutuya/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/06-2400.avif",
+          "jpg": "/img/adelya-kutuya/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAkAAsBMJZQC7AYrTa6joniAAPzos1kayMDMd4r9auQmnZNGUiIFVUZp3r5oKeFhGyCBnbDFVp9wV7HbdInKKjjmE4HrQAA=",
+      "dominant": "#d8d8d8"
+    },
+    "adelya-kutuya/07": {
+      "key": "2618593e6c57ac96dae3ebce0e2bee86e0b8be48d353c4eea27ac3a6e57cb914",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/07-480.avif",
+          "jpg": "/img/adelya-kutuya/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/07-960.avif",
+          "jpg": "/img/adelya-kutuya/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/07-1440.avif",
+          "jpg": "/img/adelya-kutuya/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/07-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/07-2400.avif",
+          "jpg": "/img/adelya-kutuya/07-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAkAAsBMJQBOgMWqxorMBbHAAOJu9f3fZRCwo1PwvsiSTKvXNYVPcGyL9s/bcPMwA8kaC29UclMqvl3Tvc925EzSpsJiuDZjUbJnNDjVlvQAAAA=",
+      "dominant": "#888888"
+    },
+    "adelya-kutuya/08": {
+      "key": "78a03a386e31ba35e5741448335f6cd6475e7267cc3d54db912c2aabc4c26097",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/08-480.avif",
+          "jpg": "/img/adelya-kutuya/08-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/08-960.avif",
+          "jpg": "/img/adelya-kutuya/08-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/08-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/08-1440.avif",
+          "jpg": "/img/adelya-kutuya/08-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/08-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/08-2400.avif",
+          "jpg": "/img/adelya-kutuya/08-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAAsBMJQBOgBukWhKXcAAA/tmp1pUS+4Ik7qECTayg+9j0kWchv5mWRNIdFOnN9eXBw+dHWNpigZ9HFd3TxgzrmXco8xxZ4ea4LbtrwEJ1gAA=",
+      "dominant": "#d8d8d8"
+    },
+    "adelya-kutuya/09": {
+      "key": "564928cff4c1ed51ebf043bf177f7d7063f140d5aae4f75f74b32344156243de",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/09-480.avif",
+          "jpg": "/img/adelya-kutuya/09-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/09-960.avif",
+          "jpg": "/img/adelya-kutuya/09-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/09-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/09-1440.avif",
+          "jpg": "/img/adelya-kutuya/09-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/09-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/09-2400.avif",
+          "jpg": "/img/adelya-kutuya/09-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAkAAsBMJQBOgMWlzUWtv8NggAD80RuxUJltq9yjl/BekQtOKplj88XinJ76J+W9gE1m5jOEzYxxRT8K048sctOb3MBQrzVLb2wBUv287rrZLfbAAAAA",
+      "dominant": "#d8c8c8"
+    },
+    "adelya-kutuya/10": {
+      "key": "19945f7576877f821d9d53a29ec75e0fb9fb75dd0536cb2d38e4bde8029106c0",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/10-480.avif",
+          "jpg": "/img/adelya-kutuya/10-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/10-960.avif",
+          "jpg": "/img/adelya-kutuya/10-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/10-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/10-1440.avif",
+          "jpg": "/img/adelya-kutuya/10-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/10-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/10-2400.avif",
+          "jpg": "/img/adelya-kutuya/10-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAAsBMJYwC7H8ACH4XEAD8Won4QwjmNwhzHasDzf9dmrD5+DuaM5vH0iK7O/XcZdn3UclaeVBA/4bzk1jxDoHrclONGQAAAA==",
+      "dominant": "#a8a8b8"
+    },
+    "adelya-kutuya/11": {
+      "key": "6daa00d892637f5e07c67cade70c3a418a99f135e9b087555a8fb385856aae69",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/adelya-kutuya/11-480.avif",
+          "jpg": "/img/adelya-kutuya/11-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/adelya-kutuya/11-960.avif",
+          "jpg": "/img/adelya-kutuya/11-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/adelya-kutuya/11-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/adelya-kutuya/11-1440.avif",
+          "jpg": "/img/adelya-kutuya/11-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/adelya-kutuya/11-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/adelya-kutuya/11-2400.avif",
+          "jpg": "/img/adelya-kutuya/11-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoQAAkAAsBMJYgCdADEfAZgAPulgCssOWj8OprpUrQr4CXbJ/1G32EjUE24UkRsuXV8y44keMRnTHOvPkVYP9+WHjJulrK0QZ2jHtBSAAA=",
+      "dominant": "#d8d8d8"
+    },
+    "obezdnaya/01": {
+      "key": "1b77ff2ba76dff6860c160c7b11c1e93a13a09a310f2df24f02a11f5e3fcb6bf",
+      "variants": [
+        {
+          "width": 480,
+          "height": 308,
+          "avif": "/img/obezdnaya/01-480.avif",
+          "jpg": "/img/obezdnaya/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 617,
+          "avif": "/img/obezdnaya/01-960.avif",
+          "jpg": "/img/obezdnaya/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 772,
+          "avif": "/img/obezdnaya/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 926,
+          "avif": "/img/obezdnaya/01-1440.avif",
+          "jpg": "/img/obezdnaya/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1234,
+          "avif": "/img/obezdnaya/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1543,
+          "avif": "/img/obezdnaya/01-2400.avif",
+          "jpg": "/img/obezdnaya/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAAoAAsBMJZgAAutC3EsK0AD+qfDmvZnQdB9mY19ptb+NawhSR+yIrpJBTJUyNLeKxitpdQORcCbuy4BD79TA4pspjxD7NYBwqmIsyrYj8DQu6cPzIAAA",
+      "dominant": "#182818"
+    },
+    "obezdnaya/02": {
+      "key": "c4e1fba4afd5d0a34d45746b9bf3ebbf3a63b492e5894e92f6d7a97dbf8a6314",
+      "variants": [
+        {
+          "width": 480,
+          "height": 271,
+          "avif": "/img/obezdnaya/02-480.avif",
+          "jpg": "/img/obezdnaya/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 544,
+          "avif": "/img/obezdnaya/02-960.avif",
+          "jpg": "/img/obezdnaya/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 680,
+          "avif": "/img/obezdnaya/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 815,
+          "avif": "/img/obezdnaya/02-1440.avif",
+          "jpg": "/img/obezdnaya/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1087,
+          "avif": "/img/obezdnaya/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1359,
+          "avif": "/img/obezdnaya/02-2400.avif",
+          "jpg": "/img/obezdnaya/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAkAAsBMJZQCdH8AGZhHlc2+TgD+9AMRstN95lnNiCVpm3lxWbBQ4dBiH3P1Qan38PYF+F9IRQDQjhZQYThKhtrZpVOrQ0XGuPgAAAA=",
+      "dominant": "#d8d8e8"
+    },
+    "obezdnaya/03": {
+      "key": "cb797d53117929950f5f520b3f81e98577a3d6768c6df7900800c20899577062",
+      "variants": [
+        {
+          "width": 480,
+          "height": 291,
+          "avif": "/img/obezdnaya/03-480.avif",
+          "jpg": "/img/obezdnaya/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 582,
+          "avif": "/img/obezdnaya/03-960.avif",
+          "jpg": "/img/obezdnaya/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 728,
+          "avif": "/img/obezdnaya/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 874,
+          "avif": "/img/obezdnaya/03-1440.avif",
+          "jpg": "/img/obezdnaya/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1165,
+          "avif": "/img/obezdnaya/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1456,
+          "avif": "/img/obezdnaya/03-2400.avif",
+          "jpg": "/img/obezdnaya/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAoAAsBMJQBOgB4HhUTLAAD+9xETMMmnleIPxjfz2Wovw5qYwtPghtyxdWt2Yh167TQ4/xWc7xyiR/O+X+fjQm7hlW8GyNgrsR57GwUcI0QOVZAAAA==",
+      "dominant": "#e8e8e8"
+    },
+    "obezdnaya/04": {
+      "key": "90769a1277e73596a70e2bef76771310f156ce689992b847b6ce4af5f2ca3799",
+      "variants": [
+        {
+          "width": 480,
+          "height": 291,
+          "avif": "/img/obezdnaya/04-480.avif",
+          "jpg": "/img/obezdnaya/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 582,
+          "avif": "/img/obezdnaya/04-960.avif",
+          "jpg": "/img/obezdnaya/04-960.jpg"
+        },
+        {
+          "width": 1319,
+          "height": 800,
+          "avif": "/img/obezdnaya/04-1319.avif",
+          "jpg": "/img/obezdnaya/04-1319.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAoAAsBMJYwCsAD0Sq+tP7AA/vQSdx+UF0HxEoZ62azRMlAK3uzW2LIancdPWtv6xxKK0SE1F1iox/tbp5X/euIOOtBOyeKC051UAAA=",
+      "dominant": "#c8d8e8"
+    },
+    "obezdnaya/05": {
+      "key": "453fb04f8ff16265448ce345042b47e03c2589029dae818d56eb6595723b7117",
+      "variants": [
+        {
+          "width": 480,
+          "height": 325,
+          "avif": "/img/obezdnaya/05-480.avif",
+          "jpg": "/img/obezdnaya/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 651,
+          "avif": "/img/obezdnaya/05-960.avif",
+          "jpg": "/img/obezdnaya/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 814,
+          "avif": "/img/obezdnaya/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 976,
+          "avif": "/img/obezdnaya/05-1440.avif",
+          "jpg": "/img/obezdnaya/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1302,
+          "avif": "/img/obezdnaya/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1627,
+          "avif": "/img/obezdnaya/05-2400.avif",
+          "jpg": "/img/obezdnaya/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAsAAsBMJQBdgMXhylQno4ZkAAD+8HvONnN1t4aFYhI++cPJLmdZnXsjTGA+Wra7uPyDfy5QcC2lMmWaWCwU8y5pZPFsmMmiq2IiQXF+G8Ghpi7AAA==",
+      "dominant": "#d8d8e8"
+    },
+    "obezdnaya/06": {
+      "key": "39e52e0c9c419efcf18503dba048554d65f971c328e0a3f1260dffc7b93c8fcd",
+      "variants": [
+        {
+          "width": 480,
+          "height": 325,
+          "avif": "/img/obezdnaya/06-480.avif",
+          "jpg": "/img/obezdnaya/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 651,
+          "avif": "/img/obezdnaya/06-960.avif",
+          "jpg": "/img/obezdnaya/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 814,
+          "avif": "/img/obezdnaya/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 976,
+          "avif": "/img/obezdnaya/06-1440.avif",
+          "jpg": "/img/obezdnaya/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1302,
+          "avif": "/img/obezdnaya/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1627,
+          "avif": "/img/obezdnaya/06-2400.avif",
+          "jpg": "/img/obezdnaya/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAsAAsBMJQBOgCG/kDFL6KUAAP7z9W9U/kSV0QtV1kFWzDbCRSUJ6a96E4EBUGosqOVQoHWRhFmfI53k7ZV9CbKHiLbDVK1YIqAA",
+      "dominant": "#d8d8d8"
+    },
+    "obezdnaya/07": {
+      "key": "ff4ac2a4e96f1dc40c71d8250e36ccb373efdba99b9933e217714badce53a559",
+      "variants": [
+        {
+          "width": 480,
+          "height": 337,
+          "avif": "/img/obezdnaya/07-480.avif",
+          "jpg": "/img/obezdnaya/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 674,
+          "avif": "/img/obezdnaya/07-960.avif",
+          "jpg": "/img/obezdnaya/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 842,
+          "avif": "/img/obezdnaya/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1010,
+          "avif": "/img/obezdnaya/07-1440.avif",
+          "jpg": "/img/obezdnaya/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1347,
+          "avif": "/img/obezdnaya/07-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1684,
+          "avif": "/img/obezdnaya/07-2400.avif",
+          "jpg": "/img/obezdnaya/07-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsAAsBMJZwCdAEef4lZ6wAA/HJLU5xgXkzE2uTsIjylCmwXAzchVZAwjAbCv4uWwqbZTomMijKunGOb9u7m0DOIAA==",
+      "dominant": "#c8b8b8"
+    },
+    "krasnaya-ploshchad/01": {
+      "key": "1a22afbac1e1c7c952add8145e51deba381db34f30954ffcf5a09b5b7e1fa925",
+      "variants": [
+        {
+          "width": 480,
+          "height": 264,
+          "avif": "/img/krasnaya-ploshchad/01-480.avif",
+          "jpg": "/img/krasnaya-ploshchad/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 528,
+          "avif": "/img/krasnaya-ploshchad/01-960.avif",
+          "jpg": "/img/krasnaya-ploshchad/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 660,
+          "avif": "/img/krasnaya-ploshchad/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 792,
+          "avif": "/img/krasnaya-ploshchad/01-1440.avif",
+          "jpg": "/img/krasnaya-ploshchad/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1056,
+          "avif": "/img/krasnaya-ploshchad/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1320,
+          "avif": "/img/krasnaya-ploshchad/01-2400.avif",
+          "jpg": "/img/krasnaya-ploshchad/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAkAAsBMJYwAD4upAYz1wAD+GYNW5qLlSnXpXnFTfAIss1oxRSNUykLHjsKo4qmiEx4GhHd3q8D9lHIYzvXv64AAAA==",
+      "dominant": "#787878"
+    },
+    "krasnaya-ploshchad/02": {
+      "key": "2aa918ee34bb0c8f1609fb1d28af97de37ade407946f4e6573c6b2012a7b3903",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/krasnaya-ploshchad/02-480.avif",
+          "jpg": "/img/krasnaya-ploshchad/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/krasnaya-ploshchad/02-960.avif",
+          "jpg": "/img/krasnaya-ploshchad/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/krasnaya-ploshchad/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/krasnaya-ploshchad/02-1440.avif",
+          "jpg": "/img/krasnaya-ploshchad/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/krasnaya-ploshchad/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/krasnaya-ploshchad/02-2400.avif",
+          "jpg": "/img/krasnaya-ploshchad/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAAsBMJQBOgCIheFfe2ZgA/vCrs5iP7/ZmpLQfDjr031RWfN+EBZpy2bGJz6RubRiXOENTCvz5g8KIUT6iKenqT0OWUh3bk4YvrtNFVYMAAAA=",
+      "dominant": "#e8d8d8"
+    },
+    "krasnaya-ploshchad/03": {
+      "key": "e5f43b3b063e621f77ea61f21385f103db68bbb9666b917223dd6870b6de9279",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/krasnaya-ploshchad/03-480.avif",
+          "jpg": "/img/krasnaya-ploshchad/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/krasnaya-ploshchad/03-960.avif",
+          "jpg": "/img/krasnaya-ploshchad/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/krasnaya-ploshchad/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/krasnaya-ploshchad/03-1440.avif",
+          "jpg": "/img/krasnaya-ploshchad/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/krasnaya-ploshchad/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/krasnaya-ploshchad/03-2400.avif",
+          "jpg": "/img/krasnaya-ploshchad/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAkAAsBMJQBOgCP8iIRgAAD+bThkyTyeTYKOvUskJCYIV3VBHUqBJO3ZI9zbHogJAMxfBOnOnsfSjkkV4mkPA18/yIi/bChMsoAA",
+      "dominant": "#d8c8c8"
+    },
+    "krasnaya-ploshchad/04": {
+      "key": "f3272b0c7b2ef0fefe753f0e34ac4bf98b4458ad384df354c98bcc344a07210a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/krasnaya-ploshchad/04-480.avif",
+          "jpg": "/img/krasnaya-ploshchad/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/krasnaya-ploshchad/04-960.avif",
+          "jpg": "/img/krasnaya-ploshchad/04-960.jpg"
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "avif": "/img/krasnaya-ploshchad/04-1280.avif",
+          "jpg": "/img/krasnaya-ploshchad/04-1280.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkAAsBMJZQCdAECmRFw3hnAAP7uJSPMyefPWQzs2R6za+HC6u3tM4XBuPW0A32M2Akv724xVsFndPa4XDPNaAy8fHa+ycwAAA==",
+      "dominant": "#d8d8d8"
+    },
+    "krasnaya-ploshchad/05": {
+      "key": "846344e73c2047e0f1a54d9b5408b5abf3cc0d7b2b36fd59ff59dffcb248b031",
+      "variants": [
+        {
+          "width": 480,
+          "height": 286,
+          "avif": "/img/krasnaya-ploshchad/05-480.avif",
+          "jpg": "/img/krasnaya-ploshchad/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 574,
+          "avif": "/img/krasnaya-ploshchad/05-960.avif",
+          "jpg": "/img/krasnaya-ploshchad/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 717,
+          "avif": "/img/krasnaya-ploshchad/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 860,
+          "avif": "/img/krasnaya-ploshchad/05-1440.avif",
+          "jpg": "/img/krasnaya-ploshchad/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1147,
+          "avif": "/img/krasnaya-ploshchad/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1434,
+          "avif": "/img/krasnaya-ploshchad/05-2400.avif",
+          "jpg": "/img/krasnaya-ploshchad/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAQCdASoQAAoAAsBMJQBOgBEQalAA/rsjkzIkJSeEerLRmVAzJaitS5rpqw/L/WYicg88pD51jj0KCZ9+JwGiemtwvluGEbO9dCDI6spssQSjQg1NQUjHAAA=",
+      "dominant": "#c8b8a8"
+    },
+    "krasnaya-ploshchad/06": {
+      "key": "b8387a2d30d48ccc78d72de73c3fc61e6117d5e272ec118edab5fdc9bedc0cde",
+      "variants": [
+        {
+          "width": 480,
+          "height": 288,
+          "avif": "/img/krasnaya-ploshchad/06-480.avif",
+          "jpg": "/img/krasnaya-ploshchad/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 576,
+          "avif": "/img/krasnaya-ploshchad/06-960.avif",
+          "jpg": "/img/krasnaya-ploshchad/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 721,
+          "avif": "/img/krasnaya-ploshchad/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 865,
+          "avif": "/img/krasnaya-ploshchad/06-1440.avif",
+          "jpg": "/img/krasnaya-ploshchad/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1153,
+          "avif": "/img/krasnaya-ploshchad/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1441,
+          "avif": "/img/krasnaya-ploshchad/06-2400.avif",
+          "jpg": "/img/krasnaya-ploshchad/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAoAAsBMJQBOgMXrurXj/tOpPADhHyvvx3AOB8g2SyaWjLrG/YqKj0e8TiDjALmOSPtOb6nAeG7Y7bOT3pxmCIIb6+B+0zL1mqa/3MJmxo/zOZGvRcxvI2Q7BcyfAAA=",
+      "dominant": "#a8a8a8"
+    },
+    "mikhaylovskiy/01": {
+      "key": "855c57448af8598ee98ab24c651f25cf735590a99ed1a698b9af73889763c441",
+      "variants": [
+        {
+          "width": 480,
+          "height": 335,
+          "avif": "/img/mikhaylovskiy/01-480.avif",
+          "jpg": "/img/mikhaylovskiy/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 671,
+          "avif": "/img/mikhaylovskiy/01-960.avif",
+          "jpg": "/img/mikhaylovskiy/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 839,
+          "avif": "/img/mikhaylovskiy/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1007,
+          "avif": "/img/mikhaylovskiy/01-1440.avif",
+          "jpg": "/img/mikhaylovskiy/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1342,
+          "avif": "/img/mikhaylovskiy/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1678,
+          "avif": "/img/mikhaylovskiy/01-2400.avif",
+          "jpg": "/img/mikhaylovskiy/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAsAAsBMJZQC7AEPAa5tMYAA/u/9ORSUe1ISDyYwV/xMVXjzqeaB24NwvacFQ0PAIBDAOJNgCd89xTLCLs4NeE4SpUG6AAA=",
+      "dominant": "#e8e8e8"
+    },
+    "mikhaylovskiy/02": {
+      "key": "a3c43662a06264dc8a5ee374af8576bc67fad7668ab473dfefbacaa96046cd49",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/mikhaylovskiy/02-480.avif",
+          "jpg": "/img/mikhaylovskiy/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/mikhaylovskiy/02-960.avif",
+          "jpg": "/img/mikhaylovskiy/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/mikhaylovskiy/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/mikhaylovskiy/02-1440.avif",
+          "jpg": "/img/mikhaylovskiy/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/mikhaylovskiy/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/mikhaylovskiy/02-2400.avif",
+          "jpg": "/img/mikhaylovskiy/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAkAAsBMJQBOgBk9+gE2wAD+QFCHY3Vu3dJbL5J/RxS6+OiTZpkjGPaSqWi8FQaZUbi6JLtYGxuJ8LV+up8596d60118QAA=",
+      "dominant": "#e8d8c8"
+    },
+    "mikhaylovskiy/03": {
+      "key": "7ee41b61ea931427971471f3ab0d116f9bb8c6e288751948773890fbf691922e",
+      "variants": [
+        {
+          "width": 480,
+          "height": 335,
+          "avif": "/img/mikhaylovskiy/03-480.avif",
+          "jpg": "/img/mikhaylovskiy/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 671,
+          "avif": "/img/mikhaylovskiy/03-960.avif",
+          "jpg": "/img/mikhaylovskiy/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 839,
+          "avif": "/img/mikhaylovskiy/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1007,
+          "avif": "/img/mikhaylovskiy/03-1440.avif",
+          "jpg": "/img/mikhaylovskiy/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1342,
+          "avif": "/img/mikhaylovskiy/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1678,
+          "avif": "/img/mikhaylovskiy/03-2400.avif",
+          "jpg": "/img/mikhaylovskiy/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAsAAsBMJZQC7AYuR26dhj4c1oAA/cPxHoQ28TjmJ7o8AZVaD+A3WvijA5fhSLnWIcuDbkt4VuirhqXE2cTLDDtiCSoAQ5x7iB4pBaYtOOSmcWOXOytaZ8n0hTrfgAA=",
+      "dominant": "#d8d8e8"
+    },
+    "mikhaylovskiy/04": {
+      "key": "1a8c03d7e105f1c43b8e82ced636ba900d6850090692c95071a16c544718b765",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/mikhaylovskiy/04-480.avif",
+          "jpg": "/img/mikhaylovskiy/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/mikhaylovskiy/04-960.avif",
+          "jpg": "/img/mikhaylovskiy/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/mikhaylovskiy/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/mikhaylovskiy/04-1440.avif",
+          "jpg": "/img/mikhaylovskiy/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/mikhaylovskiy/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/mikhaylovskiy/04-2400.avif",
+          "jpg": "/img/mikhaylovskiy/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAkAAsBMJaACdAEYH8FSfvwAAP7qXNz6PJTdsmPz1GQnNFbFpIjccLqrfP6eGYV0HhEfDmHRk339DvXGBFL+D+4XaIPLYheq+ecQl7dgAA==",
+      "dominant": "#281818"
+    },
+    "mikhaylovskiy/05": {
+      "key": "b6560732707cad6a95fac3c102709e1ddd44ae29e97423dc59efea43491ccf66",
+      "variants": [
+        {
+          "width": 480,
+          "height": 335,
+          "avif": "/img/mikhaylovskiy/05-480.avif",
+          "jpg": "/img/mikhaylovskiy/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 671,
+          "avif": "/img/mikhaylovskiy/05-960.avif",
+          "jpg": "/img/mikhaylovskiy/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 839,
+          "avif": "/img/mikhaylovskiy/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1007,
+          "avif": "/img/mikhaylovskiy/05-1440.avif",
+          "jpg": "/img/mikhaylovskiy/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1342,
+          "avif": "/img/mikhaylovskiy/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1678,
+          "avif": "/img/mikhaylovskiy/05-2400.avif",
+          "jpg": "/img/mikhaylovskiy/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAsAAsBMJQBOgCFRY23wgAD+uDMF15j4wsr9I79N/JXSTJDM+060Ry0zCQWdgzi28hbF9FU2FUKinqJd7w9RZy5V3Ub3WwAAAA==",
+      "dominant": "#c8d8e8"
+    },
+    "mikhaylovskiy/06": {
+      "key": "be4706be35cef3ff55a45db22cbc8dc60b92f36d53364fc59869f0eebe2c9611",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/mikhaylovskiy/06-480.avif",
+          "jpg": "/img/mikhaylovskiy/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/mikhaylovskiy/06-960.avif",
+          "jpg": "/img/mikhaylovskiy/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/mikhaylovskiy/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/mikhaylovskiy/06-1440.avif",
+          "jpg": "/img/mikhaylovskiy/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/mikhaylovskiy/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/mikhaylovskiy/06-2400.avif",
+          "jpg": "/img/mikhaylovskiy/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAAsBMJZQCw7DLuUn8PwAA/lTtmvGh8b1qX/uJ/Dnad1s0e0jYxSHjByHquQVSJZmsi+GqHS3jpYD691POkar/PULfqp7gGltDdwAAAA==",
+      "dominant": "#a8a8a8"
+    },
+    "mikhaylovskiy/07": {
+      "key": "d382e1844b8c1e8d9dec06ff243e19a31897545db665faffc052783c4aa1e3b8",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/mikhaylovskiy/07-480.avif",
+          "jpg": "/img/mikhaylovskiy/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/mikhaylovskiy/07-960.avif",
+          "jpg": "/img/mikhaylovskiy/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/mikhaylovskiy/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/mikhaylovskiy/07-1440.avif",
+          "jpg": "/img/mikhaylovskiy/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/mikhaylovskiy/07-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/mikhaylovskiy/07-2400.avif",
+          "jpg": "/img/mikhaylovskiy/07-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAkAAsBMJQBdgBo+tWU8YAD+9nLIrdUGOMbEnjCOpldqsgZcxW7s3vLAS/NrvrooAm19omKNvqvc92Pgzf2Ry9X10iqFFNjAAAAA",
+      "dominant": "#f8e8f8"
+    },
+    "mikhaylovskiy/08": {
+      "key": "e52f1024f427d19fdcddab5ecbe54925472e9a36a462204ce82902a67710336f",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/mikhaylovskiy/08-480.avif",
+          "jpg": "/img/mikhaylovskiy/08-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/mikhaylovskiy/08-960.avif",
+          "jpg": "/img/mikhaylovskiy/08-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/mikhaylovskiy/08-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/mikhaylovskiy/08-1440.avif",
+          "jpg": "/img/mikhaylovskiy/08-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/mikhaylovskiy/08-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/mikhaylovskiy/08-2400.avif",
+          "jpg": "/img/mikhaylovskiy/08-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoQAAkAAsBMJQBOgMXr4J1sZaVs5gAA/vX8O6hHpgbJ2m44NtHqf4Nfl9Mw518CygJh6JOw2n5581VRdCv/Eb1CukGX1T9ZIXZ+79aCoLegOH4rCTloAA==",
+      "dominant": "#080808"
+    },
+    "park-mayak/01": {
+      "key": "e85ecdda3472c5a4d1f7fbaa9ac60f2a3f40b2cb90e479a7e347d967b81ea939",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak/01-480.avif",
+          "jpg": "/img/park-mayak/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 606,
+          "avif": "/img/park-mayak/01-960.avif",
+          "jpg": "/img/park-mayak/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 758,
+          "avif": "/img/park-mayak/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 910,
+          "avif": "/img/park-mayak/01-1440.avif",
+          "jpg": "/img/park-mayak/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1213,
+          "avif": "/img/park-mayak/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1516,
+          "avif": "/img/park-mayak/01-2400.avif",
+          "jpg": "/img/park-mayak/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQAAoAAsBMJYwCw7YsZqczORQ3lZgA/jRxlsdd7MX8xmlzOQdwxwx90wTOH4/7GiSKeBpcsb4aQvy7cXOdKtokFefUSYw+MJoEJ3IL/7csbUwTJqna4AAA",
+      "dominant": "#283818"
+    },
+    "park-mayak/02": {
+      "key": "e70e41a0064564943077eca96cf1a8cbf6b60741ec308c9eab2bfacdc29db12a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak/02-480.avif",
+          "jpg": "/img/park-mayak/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 606,
+          "avif": "/img/park-mayak/02-960.avif",
+          "jpg": "/img/park-mayak/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 758,
+          "avif": "/img/park-mayak/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 910,
+          "avif": "/img/park-mayak/02-1440.avif",
+          "jpg": "/img/park-mayak/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1213,
+          "avif": "/img/park-mayak/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1516,
+          "avif": "/img/park-mayak/02-2400.avif",
+          "jpg": "/img/park-mayak/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoQAAoAAsBMJYwCdAEXb/6E4vU3KgAA/u4MZYx8LRPCS9RRx+4JCAxN1VpyA7oFMRYV+7wyczv2oG6EpUrxC32Gr6XgRfNyYJZUft6QeuaoIJHlRAAAAA==",
+      "dominant": "#c8c8c8"
+    },
+    "park-mayak/03": {
+      "key": "b98eb64a1a484e5123f439ee2c6d9dc48033f17477d1a6f4f2028e03596adf0c",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak/03-480.avif",
+          "jpg": "/img/park-mayak/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 606,
+          "avif": "/img/park-mayak/03-960.avif",
+          "jpg": "/img/park-mayak/03-960.jpg"
+        },
+        {
+          "width": 1292,
+          "height": 816,
+          "avif": "/img/park-mayak/03-1292.avif",
+          "jpg": "/img/park-mayak/03-1292.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAoAAsBMJQBOgCGu8H/OQLAA/vKM8IvKgTF9ZAc6FtXQtZEsJsvQ6EyJqqDi+8GYnIXMW3XBE3mUpfMURltG8l1Qv+uwGjUNAitFDajHVdcyoAA=",
+      "dominant": "#b8c8d8"
+    },
+    "park-mayak/04": {
+      "key": "c81281a98c5598c91561e87a7d7b900bfee17cefb1bb4a2a440dcbc2b3b6eee7",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak/04-480.avif",
+          "jpg": "/img/park-mayak/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 606,
+          "avif": "/img/park-mayak/04-960.avif",
+          "jpg": "/img/park-mayak/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 758,
+          "avif": "/img/park-mayak/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 910,
+          "avif": "/img/park-mayak/04-1440.avif",
+          "jpg": "/img/park-mayak/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1213,
+          "avif": "/img/park-mayak/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1516,
+          "avif": "/img/park-mayak/04-2400.avif",
+          "jpg": "/img/park-mayak/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAAsBMJQBOgBwyjLifE4kEAP5kDsI0amPT3D7iV9NoodnHYhAcVAiS9naaQPZGZdnWzy9jEOA2OmBtl/eK1B6S4ft0LsGjKosQdxJr+9nS6/XAAA==",
+      "dominant": "#98b8d8"
+    },
+    "park-mayak/05": {
+      "key": "42738aa3462b45b535de6bed43941b484e355b4218306690fa410b6d7a7ddca7",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak/05-480.avif",
+          "jpg": "/img/park-mayak/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 606,
+          "avif": "/img/park-mayak/05-960.avif",
+          "jpg": "/img/park-mayak/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 758,
+          "avif": "/img/park-mayak/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 910,
+          "avif": "/img/park-mayak/05-1440.avif",
+          "jpg": "/img/park-mayak/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1213,
+          "avif": "/img/park-mayak/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1516,
+          "avif": "/img/park-mayak/05-2400.avif",
+          "jpg": "/img/park-mayak/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAoAAsBMJagCdADv8iQGJoAAzjyaTk+WjDLjPvE6ifyE4FxW89nFfysa09q7N0+7+uuqQ+4KmSsztvwpmMcD8Pkbhp6NisO/JPBVMuD8SHJuwPAAAA==",
+      "dominant": "#181818"
+    },
+    "park-mayak/06": {
+      "key": "6e201a9fed7666908b2e6bd51ed8813ba53d39dcc9b536f3f4d0b81feac23796",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/park-mayak/06-480.avif",
+          "jpg": "/img/park-mayak/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/park-mayak/06-960.avif",
+          "jpg": "/img/park-mayak/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/park-mayak/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/park-mayak/06-1440.avif",
+          "jpg": "/img/park-mayak/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/park-mayak/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/park-mayak/06-2400.avif",
+          "jpg": "/img/park-mayak/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQAAkAAsBMJaACdAEWB4NGWEAA/u6x49NTx8SQjtKWaT/KZOGWY0lbKMDPPrT4HIktO14AGgfI4zdB49m9W1KOrMBlcCHYfc9YA1Mfa/BKUh52+4ajM5clY4wDYAAA",
+      "dominant": "#181818"
+    },
+    "park-mayak/07": {
+      "key": "758552d31fae6874028925c525d52c03af64ab3d15731b1a9b6b1b8983521de9",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak/07-480.avif",
+          "jpg": "/img/park-mayak/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 606,
+          "avif": "/img/park-mayak/07-960.avif",
+          "jpg": "/img/park-mayak/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 758,
+          "avif": "/img/park-mayak/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 910,
+          "avif": "/img/park-mayak/07-1440.avif",
+          "jpg": "/img/park-mayak/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1213,
+          "avif": "/img/park-mayak/07-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1516,
+          "avif": "/img/park-mayak/07-2400.avif",
+          "jpg": "/img/park-mayak/07-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQAAoAAsBMJZACdADREdnNNtgA/s3/2/FBLV9AvC0a8sHaLpaPK5UYZ5p08VpzVvIE2DufpP7DYKP5xjFPUXpeYc54tUMO+dX49u4kPd9fZ0ufUFsCgXAnkJZQSAAA",
+      "dominant": "#181818"
+    },
+    "park-mayak/08": {
+      "key": "7277c7df2244527b1f8977977c61181ff16760f940ceb7ccf415d86555a8d390",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/park-mayak/08-480.avif",
+          "jpg": "/img/park-mayak/08-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/park-mayak/08-960.avif",
+          "jpg": "/img/park-mayak/08-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/park-mayak/08-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/park-mayak/08-1440.avif",
+          "jpg": "/img/park-mayak/08-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/park-mayak/08-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/park-mayak/08-2400.avif",
+          "jpg": "/img/park-mayak/08-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAkAAsBMJYgCdAD1FgcWf+AA9rZX2TU4OWC6+0SbT+CvQ8pROaoC7J+rXt1Bia7mvLFJpl6DbWlOtIK4kKUvxykNXjwhGoDLMdQA",
+      "dominant": "#f8e8d8"
+    },
+    "park-mayak/09": {
+      "key": "5295ca0a4945d69bca1773c752b98d55147b5f5d705a5554a308144097ee605a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/park-mayak/09-480.avif",
+          "jpg": "/img/park-mayak/09-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/park-mayak/09-960.avif",
+          "jpg": "/img/park-mayak/09-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/park-mayak/09-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/park-mayak/09-1440.avif",
+          "jpg": "/img/park-mayak/09-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/park-mayak/09-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/park-mayak/09-2400.avif",
+          "jpg": "/img/park-mayak/09-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQAAkAAsBMJZACdAELz6O1LQAA4n7JJjGlOJ+v8EcPeWtVL+5jdPa0O+XgKdyXthWtMNzdIJ3xI9CwDw9Z6+TTI5bl+vKbJeFpGIULeLvMV7pZtsWz8sq1yLjgXEgAAAA=",
+      "dominant": "#382818"
+    },
+    "park-mayak/10": {
+      "key": "b269493fc376fc85587020f3d622b9dfc7b30682f285340d00dec895ae9e4d56",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/park-mayak/10-480.avif",
+          "jpg": "/img/park-mayak/10-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/park-mayak/10-960.avif",
+          "jpg": "/img/park-mayak/10-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/park-mayak/10-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/park-mayak/10-1440.avif",
+          "jpg": "/img/park-mayak/10-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/park-mayak/10-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/park-mayak/10-2400.avif",
+          "jpg": "/img/park-mayak/10-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoQAAkAAsBMJQBOgBtfHFoAAP7oir8ZcJKX+fYt3sh0ZmPoqHAl7ilnRRwQJAQEXzBSdGNhvdp/GiM15l2quOU6PvCHekOFdbyap1wAAAA=",
+      "dominant": "#f8f8f8"
+    },
+    "park-mayak-2/01": {
+      "key": "92f56936c0febdf6a7fb852e3d99ba72614c80d53433ebd13540915bee2529df",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak-2/01-480.avif",
+          "jpg": "/img/park-mayak-2/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/01-960.avif",
+          "jpg": "/img/park-mayak-2/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 760,
+          "avif": "/img/park-mayak-2/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 911,
+          "avif": "/img/park-mayak-2/01-1440.avif",
+          "jpg": "/img/park-mayak-2/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1215,
+          "avif": "/img/park-mayak-2/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1519,
+          "avif": "/img/park-mayak-2/01-2400.avif",
+          "jpg": "/img/park-mayak-2/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAoAAsBMJYgCdAEPfhCfcysAAP7t4ZNckB/aRowttoCS+UuukS5OOvxXeS+VxH9RtLh3zrwY316PbrdULMdYUb1qbY1vaXVfpOpAAAA=",
+      "dominant": "#e8d8c8"
+    },
+    "park-mayak-2/02": {
+      "key": "66f2e9b444054ef81e06a06d69a3a67fb0b57c5bc5f0daa029fb51062b28f388",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak-2/02-480.avif",
+          "jpg": "/img/park-mayak-2/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/02-960.avif",
+          "jpg": "/img/park-mayak-2/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 760,
+          "avif": "/img/park-mayak-2/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 911,
+          "avif": "/img/park-mayak-2/02-1440.avif",
+          "jpg": "/img/park-mayak-2/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1215,
+          "avif": "/img/park-mayak-2/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1519,
+          "avif": "/img/park-mayak-2/02-2400.avif",
+          "jpg": "/img/park-mayak-2/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAoAAsBMJQBOgB6UwUODWMeAAP70FCF3MadCxBkwnxQ9OgCwyTEMR5tUtsor5jwycOwLhYhjV2tFDN1qXQVdpldc02wMLFGp1GqgIAAAAA==",
+      "dominant": "#e8e8e8"
+    },
+    "park-mayak-2/03": {
+      "key": "cd7e82e2e5b9cb3aec21d1da6849ea9aee0913a192666be01f5bd4ed546edb0d",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak-2/03-480.avif",
+          "jpg": "/img/park-mayak-2/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/03-960.avif",
+          "jpg": "/img/park-mayak-2/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 760,
+          "avif": "/img/park-mayak-2/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 911,
+          "avif": "/img/park-mayak-2/03-1440.avif",
+          "jpg": "/img/park-mayak-2/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1215,
+          "avif": "/img/park-mayak-2/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1519,
+          "avif": "/img/park-mayak-2/03-2400.avif",
+          "jpg": "/img/park-mayak-2/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAoAAsBMJYwCdADdb1K82jmAAP7z3FChqaTZzZ+3MeM6n35TMf+b2FkuER3x1QObTeAKey46YuO1PND+J48ZJuouzTeMH0fYnRAA",
+      "dominant": "#e8d8c8"
+    },
+    "park-mayak-2/04": {
+      "key": "5b26c94b3885e38110839036ecea972b9e49af8ca435cf579a7fec082c2e04de",
+      "variants": [
+        {
+          "width": 480,
+          "height": 304,
+          "avif": "/img/park-mayak-2/04-480.avif",
+          "jpg": "/img/park-mayak-2/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/04-960.avif",
+          "jpg": "/img/park-mayak-2/04-960.jpg"
+        },
+        {
+          "width": 1289,
+          "height": 816,
+          "avif": "/img/park-mayak-2/04-1289.avif",
+          "jpg": "/img/park-mayak-2/04-1289.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAoAAsBMJYgCsAEO+YhfHU0+AAD+9UdK1sYmL2ZlVRnYsq44wCb9hibkDifBYCLAeUT4JDefgwz/QhiPvNoUoekl56siG783uuAAAAA=",
+      "dominant": "#d8d8d8"
+    },
+    "park-mayak-2/05": {
+      "key": "b80381118147cebbc3799174d44e7f065966437458ae4cdc9f492d66e9544ae6",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak-2/05-480.avif",
+          "jpg": "/img/park-mayak-2/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/05-960.avif",
+          "jpg": "/img/park-mayak-2/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 760,
+          "avif": "/img/park-mayak-2/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 911,
+          "avif": "/img/park-mayak-2/05-1440.avif",
+          "jpg": "/img/park-mayak-2/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1215,
+          "avif": "/img/park-mayak-2/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1519,
+          "avif": "/img/park-mayak-2/05-2400.avif",
+          "jpg": "/img/park-mayak-2/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoQAAoAAsBMJQBOgMXS5qps5o2DzegA/o3YEWmFV4nh0Ph9uJP2V+rHhm0UsBoJs0cEbdOdJCnzuFNYtT+YzyC7TQh2jWka34B5mbOF4TV6FcyLTikxD0Z3tetAAA==",
+      "dominant": "#d8c8c8"
+    },
+    "park-mayak-2/06": {
+      "key": "eca729a9dc0ffc791419bd16752eec5b4d89c105b1396d6b4a5509489090d19a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 303,
+          "avif": "/img/park-mayak-2/06-480.avif",
+          "jpg": "/img/park-mayak-2/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/06-960.avif",
+          "jpg": "/img/park-mayak-2/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 760,
+          "avif": "/img/park-mayak-2/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 911,
+          "avif": "/img/park-mayak-2/06-1440.avif",
+          "jpg": "/img/park-mayak-2/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1215,
+          "avif": "/img/park-mayak-2/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1519,
+          "avif": "/img/park-mayak-2/06-2400.avif",
+          "jpg": "/img/park-mayak-2/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAoAAsBMJQBOgBtz4sabwAAA9yfk8+5B4W8Lxulr0z9TqF40ID24ZPCpB3CROsJZAdF9oXS+beShuV63ZwCDGrMJO4MKKu0hueg14b8AAA==",
+      "dominant": "#888888"
+    },
+    "park-mayak-2/07": {
+      "key": "657c76f8cc19fb77f3e88ccab8040e795a67c2c08f9bcc628720a2e36c2a01c6",
+      "variants": [
+        {
+          "width": 480,
+          "height": 304,
+          "avif": "/img/park-mayak-2/07-480.avif",
+          "jpg": "/img/park-mayak-2/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 608,
+          "avif": "/img/park-mayak-2/07-960.avif",
+          "jpg": "/img/park-mayak-2/07-960.jpg"
+        },
+        {
+          "width": 1289,
+          "height": 816,
+          "avif": "/img/park-mayak-2/07-1289.avif",
+          "jpg": "/img/park-mayak-2/07-1289.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQAAoAAsBMJYgCdADMDOsoUDhVf6AA/vCuIpsS7gvYv5WXLr8vj/kwwLOycnGwZyOU0rEUJnIMC9sLw61hiabFSjTigQO3PsPfiE1qIIayfqgA",
+      "dominant": "#a89888"
+    },
+    "ferma-2/01": {
+      "key": "4d327dbde7ac07edd5313c4596abdec057b85a5498477adeb8792372966d26b1",
+      "variants": [
+        {
+          "width": 480,
+          "height": 300,
+          "avif": "/img/ferma-2/01-480.avif",
+          "jpg": "/img/ferma-2/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 600,
+          "avif": "/img/ferma-2/01-960.avif",
+          "jpg": "/img/ferma-2/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 750,
+          "avif": "/img/ferma-2/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 900,
+          "avif": "/img/ferma-2/01-1440.avif",
+          "jpg": "/img/ferma-2/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1200,
+          "avif": "/img/ferma-2/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1500,
+          "avif": "/img/ferma-2/01-2400.avif",
+          "jpg": "/img/ferma-2/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAoAAsBMJYwCdAD0rNfRq00wAP7uXAeXd5CMKmF+lxk3XFyqhv7F7ihJ+Y+SP6LdofJratmsi+nZGi2z/yV6xcmPushaqNxtBtZAAAA=",
+      "dominant": "#d8c8b8"
+    },
+    "ferma-2/02": {
+      "key": "a57e6be7a522cb5b27dd6660d9ab5c9e5bed4fbd01beda89dfc76308d669948c",
+      "variants": [
+        {
+          "width": 480,
+          "height": 291,
+          "avif": "/img/ferma-2/02-480.avif",
+          "jpg": "/img/ferma-2/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 582,
+          "avif": "/img/ferma-2/02-960.avif",
+          "jpg": "/img/ferma-2/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 728,
+          "avif": "/img/ferma-2/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 874,
+          "avif": "/img/ferma-2/02-1440.avif",
+          "jpg": "/img/ferma-2/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1165,
+          "avif": "/img/ferma-2/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1456,
+          "avif": "/img/ferma-2/02-2400.avif",
+          "jpg": "/img/ferma-2/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAoAAsBMJQBOgBuw7A9o+bAAAP73QFBCr3sBfIuJs7oQeqmg9OiphTxQ7wChKnRdma4Sme0WArr/LYYYNiew+YwanzmdBV/L/pGhtgAAAA==",
+      "dominant": "#a8b8d8"
+    },
+    "ferma-2/03": {
+      "key": "763c888d2bca828d80763efadb5a30bbab79d1ccd720620134f3b16ab5e9a8e6",
+      "variants": [
+        {
+          "width": 480,
+          "height": 271,
+          "avif": "/img/ferma-2/03-480.avif",
+          "jpg": "/img/ferma-2/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 544,
+          "avif": "/img/ferma-2/03-960.avif",
+          "jpg": "/img/ferma-2/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 680,
+          "avif": "/img/ferma-2/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 815,
+          "avif": "/img/ferma-2/03-1440.avif",
+          "jpg": "/img/ferma-2/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1087,
+          "avif": "/img/ferma-2/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1359,
+          "avif": "/img/ferma-2/03-2400.avif",
+          "jpg": "/img/ferma-2/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAAsBMJQBOgBupTg4KayAA/guWTRc6gncHyrvEouLWq3d+hR12JEfXZxKZDpMSKKXeAdVN1Tt8dm/o18FEigPIQG8DYjlQovZLI2AAAA==",
+      "dominant": "#d8d8d8"
+    },
+    "ferma-2/04": {
+      "key": "9fd23030a0a6601e3c5eac4e5b1e058bfe9b6848ca4fba62515f2919f9e49cdc",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/ferma-2/04-480.avif",
+          "jpg": "/img/ferma-2/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/ferma-2/04-960.avif",
+          "jpg": "/img/ferma-2/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/ferma-2/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/ferma-2/04-1440.avif",
+          "jpg": "/img/ferma-2/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/ferma-2/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/ferma-2/04-2400.avif",
+          "jpg": "/img/ferma-2/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAkAAsBMJQBOgBmiWy8qRwAA/pGkPBawKynr66qDdjDamgcCqKd2oo6myyl4cNSm953il42bgFomtW8VvtshPYUKwAAA",
+      "dominant": "#8898a8"
+    },
+    "ferma-2/05": {
+      "key": "2aba415c5fa1f8fe4bf6a67076fd3e525f2dd5c4bf2c6ce02dfb25375a39186d",
+      "variants": [
+        {
+          "width": 480,
+          "height": 272,
+          "avif": "/img/ferma-2/05-480.avif",
+          "jpg": "/img/ferma-2/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 544,
+          "avif": "/img/ferma-2/05-960.avif",
+          "jpg": "/img/ferma-2/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 680,
+          "avif": "/img/ferma-2/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 816,
+          "avif": "/img/ferma-2/05-1440.avif",
+          "jpg": "/img/ferma-2/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1088,
+          "avif": "/img/ferma-2/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1360,
+          "avif": "/img/ferma-2/05-2400.avif",
+          "jpg": "/img/ferma-2/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkAAsBMJYgCdADiXI10a2wAAP6bVOECEfwBqkwDHvnPzI5h7GHaltypibXFNav6y/Z6yTC7bYQz11Cz6zaq3esyxpeSfLAAAA==",
+      "dominant": "#98c8e8"
+    },
+    "ferma-2/06": {
+      "key": "9f4c09fdfcf85fbb50b9cd61d58448b991b850da3306754b427a43ffd90b107f",
+      "variants": [
+        {
+          "width": 480,
+          "height": 272,
+          "avif": "/img/ferma-2/06-480.avif",
+          "jpg": "/img/ferma-2/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 544,
+          "avif": "/img/ferma-2/06-960.avif",
+          "jpg": "/img/ferma-2/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 680,
+          "avif": "/img/ferma-2/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 816,
+          "avif": "/img/ferma-2/06-1440.avif",
+          "jpg": "/img/ferma-2/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1088,
+          "avif": "/img/ferma-2/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1360,
+          "avif": "/img/ferma-2/06-2400.avif",
+          "jpg": "/img/ferma-2/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAkAAsBMJZACdAD7K6kspgAA/rAh6Z4DYtIewjafSgOb+d4xByhICIXf9RzTzTrLRtpVXn4DXJFLf/h9+O3wPCepgAAA",
+      "dominant": "#88a8c8"
+    },
+    "ferma-2/07": {
+      "key": "9cb5118b30e7d8efeaaa5e01ba93e1ff85fd03c54ef37556c6f48dd9d021c62a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 270,
+          "avif": "/img/ferma-2/07-480.avif",
+          "jpg": "/img/ferma-2/07-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "avif": "/img/ferma-2/07-960.avif",
+          "jpg": "/img/ferma-2/07-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "avif": "/img/ferma-2/07-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "avif": "/img/ferma-2/07-1440.avif",
+          "jpg": "/img/ferma-2/07-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "avif": "/img/ferma-2/07-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1350,
+          "avif": "/img/ferma-2/07-2400.avif",
+          "jpg": "/img/ferma-2/07-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAkAAsBMJYwCdAEDH0YN/3BwAP2zhcfNc+1yVhiyxGf0k2NnLWR43wvmDQysoGko4SDMESBaj5mGcqZi9RGBCubXsyT6oAA=",
+      "dominant": "#9898a8"
+    },
+    "mechtateli/01": {
+      "key": "3060c2d495211e53bd427f94783956b298c89c5980bea8d66eb1ab69d5106476",
+      "variants": [
+        {
+          "width": 480,
+          "height": 268,
+          "avif": "/img/mechtateli/01-480.avif",
+          "jpg": "/img/mechtateli/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 536,
+          "avif": "/img/mechtateli/01-960.avif",
+          "jpg": "/img/mechtateli/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 670,
+          "avif": "/img/mechtateli/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 804,
+          "avif": "/img/mechtateli/01-1440.avif",
+          "jpg": "/img/mechtateli/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1072,
+          "avif": "/img/mechtateli/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1340,
+          "avif": "/img/mechtateli/01-2400.avif",
+          "jpg": "/img/mechtateli/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkAAsBMJQBOgB4bCIV4+SgAAPa/EmH4J2+YmF2Wi636KymFahyBH/VzcpCFIgn0TKms2vysUAwmiHXgPQ0ho50WMzmjTgAAAA==",
+      "dominant": "#282818"
+    },
+    "mechtateli/02": {
+      "key": "06b6492e01db49867d88929cbbb9dbd58bc7deb5116c9e484d6ba1fddbb5c6cf",
+      "variants": [
+        {
+          "width": 480,
+          "height": 267,
+          "avif": "/img/mechtateli/02-480.avif",
+          "jpg": "/img/mechtateli/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 534,
+          "avif": "/img/mechtateli/02-960.avif",
+          "jpg": "/img/mechtateli/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 668,
+          "avif": "/img/mechtateli/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 802,
+          "avif": "/img/mechtateli/02-1440.avif",
+          "jpg": "/img/mechtateli/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1069,
+          "avif": "/img/mechtateli/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1336,
+          "avif": "/img/mechtateli/02-2400.avif",
+          "jpg": "/img/mechtateli/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAQCdASoQAAkAAsBMJQBOgB06+qWoAP3+zrthCvcuXZWpK33C2x+yU5Z6mtnsTIrk1qharFOqIfxJM/6pF8FJe1p+FDNm8FjCWxCgPbP9FXIjfftmDAAA",
+      "dominant": "#081808"
+    },
+    "mechtateli/03": {
+      "key": "16348e526636dfa185882bd7692415a58b709d7ba6123253e579a2b140e9b744",
+      "variants": [
+        {
+          "width": 480,
+          "height": 266,
+          "avif": "/img/mechtateli/03-480.avif",
+          "jpg": "/img/mechtateli/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 534,
+          "avif": "/img/mechtateli/03-960.avif",
+          "jpg": "/img/mechtateli/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 667,
+          "avif": "/img/mechtateli/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 800,
+          "avif": "/img/mechtateli/03-1440.avif",
+          "jpg": "/img/mechtateli/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1067,
+          "avif": "/img/mechtateli/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1334,
+          "avif": "/img/mechtateli/03-2400.avif",
+          "jpg": "/img/mechtateli/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAAsBMJZACdAD7Y4gPQADONr27xzlH9fwF5seejvUpZMMcR2XL4zV5e1aNC12/ZScyPq1UryJiqZs8+iUgmd4BNVciC0pwAA==",
+      "dominant": "#685848"
+    },
+    "mechtateli/04": {
+      "key": "20303422108794da7734db15fc0269ed9cad0230a1046469ba6632b4ae7a62df",
+      "variants": [
+        {
+          "width": 480,
+          "height": 480,
+          "avif": "/img/mechtateli/04-480.avif",
+          "jpg": "/img/mechtateli/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "avif": "/img/mechtateli/04-960.avif",
+          "jpg": "/img/mechtateli/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 1200,
+          "avif": "/img/mechtateli/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1440,
+          "avif": "/img/mechtateli/04-1440.avif",
+          "jpg": "/img/mechtateli/04-1440.jpg"
+        },
+        {
+          "width": 2048,
+          "height": 2048,
+          "avif": "/img/mechtateli/04-2048.avif",
+          "jpg": "/img/mechtateli/04-2048.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQABAAAsBMJZACdAYulv+7pikdtSAA/vIW6voZJEB577UZv6axjCa8cPNjckzlyNU4p2uL2sDZFP5XGIEUsH0D6oR51EtNQtMcQyJUuCKF6z3z0yCkChztDNej3pyiozXnYm7CBJqOPIDR8BRQAAAA",
+      "dominant": "#382828"
+    },
+    "mechtateli/05": {
+      "key": "0cd9f82125b0e4d988042b19ce96b969bd23231a1a55b71235ae71465732794c",
+      "variants": [
+        {
+          "width": 480,
+          "height": 269,
+          "avif": "/img/mechtateli/05-480.avif",
+          "jpg": "/img/mechtateli/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 538,
+          "avif": "/img/mechtateli/05-960.avif",
+          "jpg": "/img/mechtateli/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 672,
+          "avif": "/img/mechtateli/05-1200.avif"
+        },
+        {
+          "width": 1371,
+          "height": 768,
+          "avif": "/img/mechtateli/05-1371.avif",
+          "jpg": "/img/mechtateli/05-1371.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoQAAkAAsBMJZgCdAB3E78AAP7Qyjr9gdWt8zOzJPhe/534dbEGE1Bq9ptSWSMW+w6VN5cE0QivE20fiaQCR11RqAuZ96jZdbgtAAAA",
+      "dominant": "#282828"
+    },
+    "mechtateli/06": {
+      "key": "7f26da57077bc14ca379470b9b33e2b671ccc04828c3103918b2444b12e930a0",
+      "variants": [
+        {
+          "width": 480,
+          "height": 268,
+          "avif": "/img/mechtateli/06-480.avif",
+          "jpg": "/img/mechtateli/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 535,
+          "avif": "/img/mechtateli/06-960.avif",
+          "jpg": "/img/mechtateli/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 669,
+          "avif": "/img/mechtateli/06-1200.avif"
+        },
+        {
+          "width": 1378,
+          "height": 768,
+          "avif": "/img/mechtateli/06-1378.avif",
+          "jpg": "/img/mechtateli/06-1378.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoQAAkAAsBMJZACdAB3KKAAAPzsm2Pz6niSr0zQnhSrIZEVNN81+PwksoNl7UXLiopiN8niaGLYPvSo9azBRYnV0oGrA/waWrpgpEAA",
+      "dominant": "#081808"
+    },
+    "kaydalovskaya/01": {
+      "key": "4cf7931f2d9d6ff045fff3f226051664bd6523750679592d65e800cfc23825f6",
+      "variants": [
+        {
+          "width": 480,
+          "height": 338,
+          "avif": "/img/kaydalovskaya/01-480.avif",
+          "jpg": "/img/kaydalovskaya/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 676,
+          "avif": "/img/kaydalovskaya/01-960.avif",
+          "jpg": "/img/kaydalovskaya/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 845,
+          "avif": "/img/kaydalovskaya/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1014,
+          "avif": "/img/kaydalovskaya/01-1440.avif",
+          "jpg": "/img/kaydalovskaya/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1352,
+          "avif": "/img/kaydalovskaya/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1690,
+          "avif": "/img/kaydalovskaya/01-2400.avif",
+          "jpg": "/img/kaydalovskaya/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQAAsAAsBMJYwCdAYvNqtIBL2ZoAD+J7U+LzGt/Xm/qUhLqqfPTzochXp1nVqaNutSPu2ODNa0520TviYhYdvRClN2qQ0Ht/cPxGDXS+Kl/3hxTgQH0nM1m6HAr6+AvjwzipeNAAA=",
+      "dominant": "#d8c8b8"
+    },
+    "kaydalovskaya/02": {
+      "key": "7435a2525632bafc7a99c3336ca954cc343995a15c976afe81a3663563c1948f",
+      "variants": [
+        {
+          "width": 480,
+          "height": 338,
+          "avif": "/img/kaydalovskaya/02-480.avif",
+          "jpg": "/img/kaydalovskaya/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 676,
+          "avif": "/img/kaydalovskaya/02-960.avif",
+          "jpg": "/img/kaydalovskaya/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 845,
+          "avif": "/img/kaydalovskaya/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 1014,
+          "avif": "/img/kaydalovskaya/02-1440.avif",
+          "jpg": "/img/kaydalovskaya/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1352,
+          "avif": "/img/kaydalovskaya/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1690,
+          "avif": "/img/kaydalovskaya/02-2400.avif",
+          "jpg": "/img/kaydalovskaya/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAsAAsBMJQBOj+ADAl79k1p4AAD+1RfzVCuJ+PfBevIPBhAWZ6bAg/EonnWJlsm5UTdIxpiQVwMTFM0yABH2UXRWNgfF5yxN2X3A1DxM6hB5VHwbc7UUYuvi0HoqAAA=",
+      "dominant": "#d8d8e8"
+    },
+    "kaydalovskaya/03": {
+      "key": "7d46038698e33eadf295e06e875e9dfc12d0497c4bf3755d609e6b2a161dc26c",
+      "variants": [
+        {
+          "width": 480,
+          "height": 305,
+          "avif": "/img/kaydalovskaya/03-480.avif",
+          "jpg": "/img/kaydalovskaya/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 611,
+          "avif": "/img/kaydalovskaya/03-960.avif",
+          "jpg": "/img/kaydalovskaya/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 764,
+          "avif": "/img/kaydalovskaya/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 916,
+          "avif": "/img/kaydalovskaya/03-1440.avif",
+          "jpg": "/img/kaydalovskaya/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1222,
+          "avif": "/img/kaydalovskaya/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1527,
+          "avif": "/img/kaydalovskaya/03-2400.avif",
+          "jpg": "/img/kaydalovskaya/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQAAoAAsBMJQBOgMYO5vbbohonKgAA/vTVqRvrD5+MhUD8xwC1xOo8icr5peNGK34XxjHRMhxk2vH0yorcOTp2dB+omU1XnADojAzIhisVx0FsaqndD3zGzzrHIEubw6LBsLfRseUgAA==",
+      "dominant": "#e8d8c8"
+    },
+    "kaydalovskaya/04": {
+      "key": "687dcb3441932a0758aa8f0cfcb40fd4f60b2f445990d567cbb9a82b7f49cd7a",
+      "variants": [
+        {
+          "width": 480,
+          "height": 304,
+          "avif": "/img/kaydalovskaya/04-480.avif",
+          "jpg": "/img/kaydalovskaya/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 609,
+          "avif": "/img/kaydalovskaya/04-960.avif",
+          "jpg": "/img/kaydalovskaya/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 762,
+          "avif": "/img/kaydalovskaya/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 914,
+          "avif": "/img/kaydalovskaya/04-1440.avif",
+          "jpg": "/img/kaydalovskaya/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1218,
+          "avif": "/img/kaydalovskaya/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1523,
+          "avif": "/img/kaydalovskaya/04-2400.avif",
+          "jpg": "/img/kaydalovskaya/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAoAAsBMJbACdAYrJtpXwhzA6AD+rToVVcwcND0KQnpF4Ue1YDP8XGjuqY0NUvkwRjQkoBWER4mBQj+Lx4gVoNTKCYKeVqtzygM4yQi3wblAC51aRm7EHAAAAA==",
+      "dominant": "#d8a878"
+    },
+    "oktyabrskiy/01": {
+      "key": "b3a130d38b8c804f89226cd34b10966a0cdc365ba96b7a917b2036740f9ff4a7",
+      "variants": [
+        {
+          "width": 480,
+          "height": 287,
+          "avif": "/img/oktyabrskiy/01-480.avif",
+          "jpg": "/img/oktyabrskiy/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 576,
+          "avif": "/img/oktyabrskiy/01-960.avif",
+          "jpg": "/img/oktyabrskiy/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 720,
+          "avif": "/img/oktyabrskiy/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 863,
+          "avif": "/img/oktyabrskiy/01-1440.avif",
+          "jpg": "/img/oktyabrskiy/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1151,
+          "avif": "/img/oktyabrskiy/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1439,
+          "avif": "/img/oktyabrskiy/01-2400.avif",
+          "jpg": "/img/oktyabrskiy/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQAAoAAsBMJQBOgMYiylzIE6EAAP7b0WPLedHww2IrOB2xF51YQ+Plj3uEIB9nF+jqUbGNvKDULcrnhutt1gPSDR77CRKo1YbzMkZ1LCk+Fnv+44APTjh1U+ErcLP66d1Hxns3yAA=",
+      "dominant": "#a89888"
+    },
+    "oktyabrskiy/02": {
+      "key": "61f3790386516e4d1a4b95798c4bb7a961b73731832bcf9ba277c962acdb8618",
+      "variants": [
+        {
+          "width": 480,
+          "height": 320,
+          "avif": "/img/oktyabrskiy/02-480.avif",
+          "jpg": "/img/oktyabrskiy/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 640,
+          "avif": "/img/oktyabrskiy/02-960.avif",
+          "jpg": "/img/oktyabrskiy/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "avif": "/img/oktyabrskiy/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 960,
+          "avif": "/img/oktyabrskiy/02-1440.avif",
+          "jpg": "/img/oktyabrskiy/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1280,
+          "avif": "/img/oktyabrskiy/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1600,
+          "avif": "/img/oktyabrskiy/02-2400.avif",
+          "jpg": "/img/oktyabrskiy/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAsAAsBMJZACdAYtBgdJ3HIoAAD89MrvNa3RpeCk5dVpM0/nqWvK2O+HZGFzrYJbUu8Ik/CKnTNWhz0ACMvyCGA/TeZv2FwHTjCaKDMbj+WO0HPqUcoAAAA=",
+      "dominant": "#d8c8c8"
+    },
+    "oktyabrskiy/03": {
+      "key": "27c9aa80fb39d1549014330f4ee0c3af2b7444f2e3e922a39611ca311c02fca3",
+      "variants": [
+        {
+          "width": 480,
+          "height": 322,
+          "avif": "/img/oktyabrskiy/03-480.avif",
+          "jpg": "/img/oktyabrskiy/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 646,
+          "avif": "/img/oktyabrskiy/03-960.avif",
+          "jpg": "/img/oktyabrskiy/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 807,
+          "avif": "/img/oktyabrskiy/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 968,
+          "avif": "/img/oktyabrskiy/03-1440.avif",
+          "jpg": "/img/oktyabrskiy/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1291,
+          "avif": "/img/oktyabrskiy/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1614,
+          "avif": "/img/oktyabrskiy/03-2400.avif",
+          "jpg": "/img/oktyabrskiy/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQAAsAAsBMJYwCdAYvDdYwprfnsNAA/vQVm1Jh2NDMmG0yr+05UNjQN6jHoPvXudUUKlpS5esrYM2atdOfOZbsI8aczkH/fl5/SLfYaR08W897fDe7Yktdmsh13xienhSAAA==",
+      "dominant": "#181808"
+    },
+    "oktyabrskiy/04": {
+      "key": "faa8149b40ecdd014c596ba8becb9dcf10d513f3dac0c5a906e19132bd6e63e9",
+      "variants": [
+        {
+          "width": 480,
+          "height": 288,
+          "avif": "/img/oktyabrskiy/04-480.avif",
+          "jpg": "/img/oktyabrskiy/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 576,
+          "avif": "/img/oktyabrskiy/04-960.avif",
+          "jpg": "/img/oktyabrskiy/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 720,
+          "avif": "/img/oktyabrskiy/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 864,
+          "avif": "/img/oktyabrskiy/04-1440.avif",
+          "jpg": "/img/oktyabrskiy/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1152,
+          "avif": "/img/oktyabrskiy/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1440,
+          "avif": "/img/oktyabrskiy/04-2400.avif",
+          "jpg": "/img/oktyabrskiy/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAoAAsBMJYwCdADG5BzfgAD+7uyy102iAF/fgnEvyhhn37m+Fbrje/FVz8MJGTOsLQFyYXa5Hn/D0MtObvDFNykUaQtIhKxAWAAA",
+      "dominant": "#281818"
+    },
+    "oktyabrskiy/05": {
+      "key": "9985a916d6b83ceb0bb4752a1261028dbc13f8d5ed1a51f98f4ea5b297d4f9e2",
+      "variants": [
+        {
+          "width": 480,
+          "height": 288,
+          "avif": "/img/oktyabrskiy/05-480.avif",
+          "jpg": "/img/oktyabrskiy/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 576,
+          "avif": "/img/oktyabrskiy/05-960.avif",
+          "jpg": "/img/oktyabrskiy/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 720,
+          "avif": "/img/oktyabrskiy/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 864,
+          "avif": "/img/oktyabrskiy/05-1440.avif",
+          "jpg": "/img/oktyabrskiy/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1152,
+          "avif": "/img/oktyabrskiy/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1440,
+          "avif": "/img/oktyabrskiy/05-2400.avif",
+          "jpg": "/img/oktyabrskiy/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAoAAsBMJYwCdAYtfkmhWlNQAP7voX4IS6MB7mwAykGxWkpppCP7eHFCdjLrNqFWnA6DCfacc3tzMzpcJOlpyQtqizDmOaFQBt59WthSHAAA",
+      "dominant": "#585858"
+    },
+    "oktyabrskiy/06": {
+      "key": "f82972b55d1e937a0366891f94761ddc898409a2eec9703adb063f08833b77e1",
+      "variants": [
+        {
+          "width": 480,
+          "height": 287,
+          "avif": "/img/oktyabrskiy/06-480.avif",
+          "jpg": "/img/oktyabrskiy/06-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 576,
+          "avif": "/img/oktyabrskiy/06-960.avif",
+          "jpg": "/img/oktyabrskiy/06-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 720,
+          "avif": "/img/oktyabrskiy/06-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 863,
+          "avif": "/img/oktyabrskiy/06-1440.avif",
+          "jpg": "/img/oktyabrskiy/06-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1151,
+          "avif": "/img/oktyabrskiy/06-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1439,
+          "avif": "/img/oktyabrskiy/06-2400.avif",
+          "jpg": "/img/oktyabrskiy/06-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAoAAsBMJQBOgBufY5kdebqyAAD9w4UHu9+1/l8QFvXhJ/SmEh13oWzVowQ2lLkmf4DoikHfdSTgT3PySjP4QEiedM74IuE1AJbTes4fNQrfVAAAAA==",
+      "dominant": "#181808"
+    },
+    "tarasova/01": {
+      "key": "e949978152087aa4177b0862860e44dd0ea9942864e755b920a515202171c527",
+      "variants": [
+        {
+          "width": 480,
+          "height": 264,
+          "avif": "/img/tarasova/01-480.avif",
+          "jpg": "/img/tarasova/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 527,
+          "avif": "/img/tarasova/01-960.avif",
+          "jpg": "/img/tarasova/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 659,
+          "avif": "/img/tarasova/01-1200.avif"
+        },
+        {
+          "width": 1399,
+          "height": 768,
+          "avif": "/img/tarasova/01-1399.avif",
+          "jpg": "/img/tarasova/01-1399.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAQCdASoQAAkAAsBMJQBOgAq//AD+re91O2nai7NHYysVsUiBiAdwJ761CpH1fOuHSb5kOTBVd41LzLmnP9YcJTB4MxjtgldKRjKHlpkllFUXYAA=",
+      "dominant": "#383838"
+    },
+    "tarasova/02": {
+      "key": "652cd4f1c2761dee0f46b5f1ed43306d0d238a23b950bcc032e1d6906b658b18",
+      "variants": [
+        {
+          "width": 480,
+          "height": 264,
+          "avif": "/img/tarasova/02-480.avif",
+          "jpg": "/img/tarasova/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 528,
+          "avif": "/img/tarasova/02-960.avif",
+          "jpg": "/img/tarasova/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 660,
+          "avif": "/img/tarasova/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 792,
+          "avif": "/img/tarasova/02-1440.avif",
+          "jpg": "/img/tarasova/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1056,
+          "avif": "/img/tarasova/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1320,
+          "avif": "/img/tarasova/02-2400.avif",
+          "jpg": "/img/tarasova/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAkAAsBMJQBOgB08gluhylAA/uaLGyip1ZRGpC+oo57z+orUc0ee4vkd8Foi0rA5UlhWg9SyLQAq08V4xC5ZHH/EsJoY3MSAAA==",
+      "dominant": "#282828"
+    },
+    "tarasova/03": {
+      "key": "c19ffd364e3a6af692bbb5caf6dd4f6c19bca150ea41a8e7810fa1ab6d9f5bd9",
+      "variants": [
+        {
+          "width": 480,
+          "height": 264,
+          "avif": "/img/tarasova/03-480.avif",
+          "jpg": "/img/tarasova/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 529,
+          "avif": "/img/tarasova/03-960.avif",
+          "jpg": "/img/tarasova/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 661,
+          "avif": "/img/tarasova/03-1200.avif"
+        },
+        {
+          "width": 1394,
+          "height": 768,
+          "avif": "/img/tarasova/03-1394.avif",
+          "jpg": "/img/tarasova/03-1394.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAAsBMJZACdAC3hHeeFAAA/tziTsMOl6XSqPaObsOlK6DzMfg9vGPhc7hDXOSF98aZx0Ay2/Cu1CiwKKER34OCZ1IKjJkWY3iGTOQAAA==",
+      "dominant": "#181808"
+    },
+    "tarasova/04": {
+      "key": "369e2c0f4902f3235729cc63ffc5a230549ca816c4e68f33d96fefddd214f691",
+      "variants": [
+        {
+          "width": 480,
+          "height": 268,
+          "avif": "/img/tarasova/04-480.avif",
+          "jpg": "/img/tarasova/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 535,
+          "avif": "/img/tarasova/04-960.avif",
+          "jpg": "/img/tarasova/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 669,
+          "avif": "/img/tarasova/04-1200.avif"
+        },
+        {
+          "width": 1378,
+          "height": 768,
+          "avif": "/img/tarasova/04-1378.avif",
+          "jpg": "/img/tarasova/04-1378.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAAkAAsBMJQBOgCPP9CeAAAD6nBsKNsUSxZtPQgGHrYyQ8jVx5/ehMUv081BFbUutsHkiuaIzMZ9FByIX71mcO6zYAAAA",
+      "dominant": "#b89878"
+    },
+    "tarasova/05": {
+      "key": "b9d1b209ca244956ff022218de3ef5200c4d6667410877a5227b6718eaf6ca96",
+      "variants": [
+        {
+          "width": 480,
+          "height": 266,
+          "avif": "/img/tarasova/05-480.avif",
+          "jpg": "/img/tarasova/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 532,
+          "avif": "/img/tarasova/05-960.avif",
+          "jpg": "/img/tarasova/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 664,
+          "avif": "/img/tarasova/05-1200.avif"
+        },
+        {
+          "width": 1387,
+          "height": 768,
+          "avif": "/img/tarasova/05-1387.avif",
+          "jpg": "/img/tarasova/05-1387.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAkAAsBMJQBOgB074YkNAAD+n7wtuD07teoTdUB8XQg3twIg8tfNp3UF6nJc6rAAcCmkQqs1RrYhUtVmnNfflNECPi4YwM/4AAAA",
+      "dominant": "#383828"
+    },
+    "mikrorayon-32/01": {
+      "key": "e328d930c53200daa1557c9803e05c4f3504bcf7541371bbdf5aa1398b281d18",
+      "variants": [
+        {
+          "width": 480,
+          "height": 232,
+          "avif": "/img/mikrorayon-32/01-480.avif",
+          "jpg": "/img/mikrorayon-32/01-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 465,
+          "avif": "/img/mikrorayon-32/01-960.avif",
+          "jpg": "/img/mikrorayon-32/01-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 582,
+          "avif": "/img/mikrorayon-32/01-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 698,
+          "avif": "/img/mikrorayon-32/01-1440.avif",
+          "jpg": "/img/mikrorayon-32/01-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 930,
+          "avif": "/img/mikrorayon-32/01-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1163,
+          "avif": "/img/mikrorayon-32/01-2400.avif",
+          "jpg": "/img/mikrorayon-32/01-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAQCdASoQAAgAAsBMJYgCdACBp+AA/sBQfS0LfwNWtgPv0awuWX6904ta1xNvxFFl+1LZY8frzGl+aQoFK1gwcmdcLa5AIptyuAAA",
+      "dominant": "#b89888"
+    },
+    "mikrorayon-32/02": {
+      "key": "f61a02544ecb0f7cc99f31c715f3498ebd3920942bb9a4a303af5fe5bd218718",
+      "variants": [
+        {
+          "width": 480,
+          "height": 232,
+          "avif": "/img/mikrorayon-32/02-480.avif",
+          "jpg": "/img/mikrorayon-32/02-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 464,
+          "avif": "/img/mikrorayon-32/02-960.avif",
+          "jpg": "/img/mikrorayon-32/02-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 580,
+          "avif": "/img/mikrorayon-32/02-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 696,
+          "avif": "/img/mikrorayon-32/02-1440.avif",
+          "jpg": "/img/mikrorayon-32/02-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 928,
+          "avif": "/img/mikrorayon-32/02-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1160,
+          "avif": "/img/mikrorayon-32/02-2400.avif",
+          "jpg": "/img/mikrorayon-32/02-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAgAAsBMJZgCdAYuRLwh4zrcAParua8RG9tmPCzgzqZ/vlOreFCd6tA9eNzfTr2OcalXaj5a8Lfm2YbgGunGUweODZLJYWIpbqYBe/vIkAAA",
+      "dominant": "#787888"
+    },
+    "mikrorayon-32/03": {
+      "key": "250ee3fe61e616fc54bd6d1395f1c3f748a2f6da9d1e2a3da6f4896ba6b7038e",
+      "variants": [
+        {
+          "width": 480,
+          "height": 257,
+          "avif": "/img/mikrorayon-32/03-480.avif",
+          "jpg": "/img/mikrorayon-32/03-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 514,
+          "avif": "/img/mikrorayon-32/03-960.avif",
+          "jpg": "/img/mikrorayon-32/03-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 643,
+          "avif": "/img/mikrorayon-32/03-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 771,
+          "avif": "/img/mikrorayon-32/03-1440.avif",
+          "jpg": "/img/mikrorayon-32/03-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1028,
+          "avif": "/img/mikrorayon-32/03-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1285,
+          "avif": "/img/mikrorayon-32/03-2400.avif",
+          "jpg": "/img/mikrorayon-32/03-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoQAAkAAsBMJYgCdAYt9wXP4yulGQIAAP4mEL79qnvtHb+dkAJ0esx1bLljObuIt7bhGNVwWQEUqIsH8V+FFzzDQvnlJNgvIQLZhqk7EYTSbc1BgVvZl9jSgMAAAA==",
+      "dominant": "#e8b898"
+    },
+    "mikrorayon-32/04": {
+      "key": "433e72b6e952f4009503a4a88bfecebc323f8a00a0a13e4f6a9d7a294b93b2ad",
+      "variants": [
+        {
+          "width": 480,
+          "height": 232,
+          "avif": "/img/mikrorayon-32/04-480.avif",
+          "jpg": "/img/mikrorayon-32/04-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 465,
+          "avif": "/img/mikrorayon-32/04-960.avif",
+          "jpg": "/img/mikrorayon-32/04-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 582,
+          "avif": "/img/mikrorayon-32/04-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 698,
+          "avif": "/img/mikrorayon-32/04-1440.avif",
+          "jpg": "/img/mikrorayon-32/04-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 930,
+          "avif": "/img/mikrorayon-32/04-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1163,
+          "avif": "/img/mikrorayon-32/04-2400.avif",
+          "jpg": "/img/mikrorayon-32/04-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAgAAsBMJYgCdAEfxFKHqmsAAP7CUPhVxuum/wciTiP/Ncawl8jBeUQ7rdH0GtMuwRsxfSN6OgpiCjltU1bW9cJYU0AA",
+      "dominant": "#a89888"
+    },
+    "mikrorayon-32/05": {
+      "key": "432c1c01895342592608547ab971997cc4cd9164c0a6ebd9761bf4d0b3f6bbe5",
+      "variants": [
+        {
+          "width": 480,
+          "height": 232,
+          "avif": "/img/mikrorayon-32/05-480.avif",
+          "jpg": "/img/mikrorayon-32/05-480.jpg"
+        },
+        {
+          "width": 960,
+          "height": 464,
+          "avif": "/img/mikrorayon-32/05-960.avif",
+          "jpg": "/img/mikrorayon-32/05-960.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 580,
+          "avif": "/img/mikrorayon-32/05-1200.avif"
+        },
+        {
+          "width": 1440,
+          "height": 696,
+          "avif": "/img/mikrorayon-32/05-1440.avif",
+          "jpg": "/img/mikrorayon-32/05-1440.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 928,
+          "avif": "/img/mikrorayon-32/05-1920.avif"
+        },
+        {
+          "width": 2400,
+          "height": 1160,
+          "avif": "/img/mikrorayon-32/05-2400.avif",
+          "jpg": "/img/mikrorayon-32/05-2400.jpg"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAgAAsBMJQBOgCLv8YPxX5AA/myMHY2ydNRaCh6wp0xL0VlWcV9pA+gPhZNegvjHO0enKYsJHefrSIu5eB6x1XJAE+qAAAA=",
+      "dominant": "#d8b8a8"
+    }
+  }
+}

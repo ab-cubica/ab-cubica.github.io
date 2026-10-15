@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{n as t,t as n,v as r,y as i}from"./react-BmTetyfc.js";var a=e(i(),1),o=r(),s=n();(0,a.startTransition)(()=>{(0,o.hydrateRoot)(document,(0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(t,{})}))});
